@@ -1,0 +1,24 @@
+# --- Datos personales y fuentes originales: NUNCA subir ---
+etl/salida_privada/
+etl/alias_personas.local.json
+*.xlsm
+*.xlsx
+*.xls
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- Herramientas / sistema ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+.dbeaver/
+credentials-config.json
+*.sqlite
+*.db
