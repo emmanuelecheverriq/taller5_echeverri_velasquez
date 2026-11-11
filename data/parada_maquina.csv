@@ -1,0 +1,2156 @@
+id_parada,fecha,id_maquina,id_motivo,horas_no_trabajadas,observacion
+1,2023-10-27,2,1,16.0,No se programo por demanda
+2,2023-10-28,3,1,8.0,No se programo por demanda
+3,2023-10-28,2,1,24.0,No se programo por demanda
+4,2023-10-29,3,1,16.0,No se programo por demanda
+5,2023-10-29,2,1,24.0,No se programo por demanda
+6,2023-10-30,2,1,16.0,No se programo por demanda
+7,2023-10-31,3,1,24.0,No se programo por demanda
+8,2023-10-31,2,1,8.0,No se programo por demanda
+9,2023-11-01,3,1,8.0,Falta de pinturas
+10,2023-11-01,2,1,16.0,No se programo por demanda
+11,2023-11-02,4,1,16.0,Materia prima
+12,2023-11-02,3,1,24.0,Falta de pinturas
+13,2023-11-02,2,1,16.0,No se programo por demanda
+14,2023-11-03,3,1,24.0,Falta de pinturas
+15,2023-11-03,2,1,16.0,No se programo por demanda
+16,2023-11-04,4,1,8.0,No se programo por demanda (compensatorio)
+17,2023-11-04,3,2,16.0,Se cambio de referencia
+18,2023-11-04,3,1,8.0,No se programo por demanda (compensatorio)
+19,2023-11-04,2,1,16.0,No se programo por demanda
+20,2023-11-04,1,1,8.0,No se programo por demanda (compensatorio)
+21,2023-11-05,4,1,24.0,No se programo por demanda (compensatorio)
+22,2023-11-05,3,1,24.0,No se programo por demanda (compensatorio)
+23,2023-11-05,2,1,24.0,No se programo por demanda
+24,2023-11-05,1,1,24.0,No se programo por demanda (compensatorio)
+25,2023-11-06,4,1,16.0,No se programo por demanda (compensatorio)
+26,2023-11-06,3,1,24.0,No se programo por demanda (compensatorio)
+27,2023-11-06,2,1,24.0,No se programo por demanda
+28,2023-11-06,1,1,16.0,No se programo por demanda (compensatorio)
+29,2023-11-07,4,1,16.0,No se programo por demanda
+30,2023-11-07,2,1,13.5,No se programo por demanda
+31,2023-11-08,4,1,24.0,No se programo por demanda
+32,2023-11-09,4,1,24.0,No se programo por demanda
+33,2023-11-09,2,1,13.5,No se programo por demanda
+34,2023-11-10,4,1,24.0,No se programo por demanda
+35,2023-11-10,3,1,4.0,No se programo por demanda
+36,2023-11-10,2,1,13.5,No se programo por demanda
+37,2023-11-11,4,1,24.0,No se programo por demanda (compensatorio)
+38,2023-11-11,3,1,24.0,No se programo por demanda (compensatorio)
+39,2023-11-11,2,1,24.0,No se programo por demanda
+40,2023-11-11,1,1,8.0,No se programo por demanda (compensatorio)
+41,2023-11-12,4,1,24.0,No se programo por demanda (compensatorio)
+42,2023-11-12,3,1,24.0,No se programo por demanda (compensatorio)
+43,2023-11-12,2,1,24.0,No se programo por demanda (compensatorio)
+44,2023-11-12,1,1,24.0,No se programo por demanda (compensatorio)
+45,2023-11-13,4,1,24.0,No se programo por demanda (compensatorio)
+46,2023-11-13,3,1,24.0,No se programo por demanda (compensatorio)
+47,2023-11-13,2,1,24.0,No se programo por demanda (compensatorio)
+48,2023-11-13,1,1,16.0,No se programo por demanda (compensatorio)
+49,2023-11-14,4,1,24.0,Resultados de laboratorio
+50,2023-11-14,3,1,24.0,No se programo por demanda
+51,2023-11-14,2,3,13.5,
+52,2023-11-15,4,1,24.0,Resultados de laboratorio
+53,2023-11-15,3,1,24.0,No se programo por demanda
+54,2023-11-16,4,1,24.0,Resultados de laboratorio
+55,2023-11-16,2,1,13.5,No se programo por demanda
+56,2023-11-17,4,1,24.0,Resultados de laboratorio
+57,2023-11-17,2,1,16.0,No se programo por demanda
+58,2023-11-18,3,1,16.0,No se programo por demanda (compensatorio)
+59,2023-11-18,1,1,8.0,No se programo por demanda (compensatorio)
+60,2023-11-18,4,1,8.0,No se programo por demanda
+61,2023-11-19,4,1,16.0,No se programo por demanda (compensatorio)
+62,2023-11-19,3,1,24.0,No se programo por demanda
+63,2023-11-19,2,1,24.0,No se programo por demanda (compensatorio)
+64,2023-11-19,1,1,16.0,No se programo por demanda (compensatorio)
+65,2023-11-20,3,1,24.0,Se cambio de referencia
+66,2023-11-20,2,1,5.5,No se programo por demanda
+67,2023-11-20,2,1,5.5,No se programo por demanda
+68,2023-11-20,1,1,8.0,Falta de pinturas
+69,2023-11-21,3,1,24.0,Se cambio de referencia
+70,2023-11-21,2,1,13.5,No se programo por demanda
+71,2023-11-22,3,1,24.0,Se cambio de referencia
+72,2023-11-22,2,1,13.5,No se programo por demanda
+73,2023-11-23,4,1,23.0,Se cambio de referencia
+74,2023-11-23,3,1,24.0,Se cambio de referencia
+75,2023-11-23,2,1,13.5,No se programo por demanda
+76,2023-11-23,1,1,16.0,Se cambio de referencia
+77,2023-11-24,4,1,24.0,Se cambio de referencia
+78,2023-11-24,3,1,24.0,Se cambio de referencia
+79,2023-11-24,2,1,13.5,No se programo por demanda
+80,2023-11-25,4,1,24.0,Se cambio de referencia
+81,2023-11-25,3,1,24.0,Se cambio de referencia
+82,2023-11-25,2,1,24.0,No se programo por demanda (compensatorio)
+83,2023-11-25,1,1,8.0,No se programo por demanda (compensatorio)
+84,2023-11-26,4,1,24.0,No se programo por demanda (compensatorio)
+85,2023-11-26,3,1,24.0,No se programo por demanda (compensatorio)
+86,2023-11-26,2,1,24.0,No se programo por demanda (compensatorio)
+87,2023-11-26,1,1,16.0,No se programo por demanda (compensatorio)
+88,2023-11-27,4,1,24.0,Resultados de laboratorio
+89,2023-11-27,3,1,8.0,Se cambio de referencia
+90,2023-11-27,2,1,24.0,Materia prima
+91,2023-11-28,4,1,11.0,Resultados de laboratorio
+92,2023-11-28,2,1,13.5,No se programo por demanda
+93,2023-11-28,1,1,8.0,Falta de operario
+94,2023-11-29,2,1,5.5,Falta de pinturas
+95,2023-11-29,2,1,13.5,No se programo por demanda
+96,2023-11-29,1,1,16.0,Falta de operario
+97,2023-11-30,3,1,8.0,Se cambio de referencia
+98,2023-11-30,2,1,13.5,No se programo por demanda
+99,2023-11-30,1,1,8.0,Falta de operario
+100,2023-12-01,2,1,13.5,No se programo por demanda
+101,2023-12-01,1,1,16.0,No se programo por demanda
+102,2023-12-02,4,1,14.6,Falta de operario
+103,2023-12-02,3,1,8.0,No se programo por demanda (compensatorio)
+104,2023-12-02,2,1,16.0,No se programo por demanda (compensatorio)
+105,2023-12-02,1,1,16.0,Falta de operario
+106,2023-12-03,4,1,16.0,No se programo por demanda (compensatorio)
+107,2023-12-03,3,1,16.0,No se programo por demanda (compensatorio)
+108,2023-12-03,2,1,24.0,No se programo por demanda (compensatorio)
+109,2023-12-03,1,1,16.0,No se programo por demanda (compensatorio)
+110,2023-12-04,2,1,8.5,Falta de display
+111,2023-12-04,2,1,13.5,No se programo por demanda
+112,2023-12-05,2,1,13.5,No se programo por demanda
+113,2023-12-06,2,1,13.5,No se programo por demanda
+114,2023-12-07,2,1,13.5,No se programo por demanda
+115,2023-12-08,3,1,16.0,No se programo por demanda (compensatorio)
+116,2023-12-08,4,1,16.0,No se programo por demanda (compensatorio)
+117,2023-12-08,2,1,24.0,No se programo por demanda (compensatorio)
+118,2023-12-10,4,1,16.0,No se programo por demanda (compensatorio)
+119,2023-12-10,3,1,16.0,No se programo por demanda
+120,2023-12-10,2,1,24.0,No se programo por demanda
+121,2023-12-11,2,1,13.5,No se programo por demanda
+122,2023-12-13,4,1,6.75,Se cambio de referencia
+123,2023-12-13,2,1,13.5,No se programo por demanda
+124,2023-12-14,2,1,13.5,No se programo por demanda
+125,2023-12-15,2,1,16.0,No se programo por demanda
+126,2023-12-16,4,1,8.0,No se programo por demanda (compensatorio)
+127,2023-12-16,3,1,8.0,No se programo por demanda (compensatorio)
+128,2023-12-16,2,1,16.0,No se programo por demanda (compensatorio)
+129,2023-12-16,1,1,20.0,No se programo por demanda (compensatorio)
+130,2023-12-17,4,1,8.0,No se programo por demanda
+131,2023-12-17,3,1,8.0,No se programo por demanda (compensatorio)
+132,2023-12-17,2,1,24.0,No se programo por demanda (compensatorio)
+133,2023-12-18,2,1,13.5,No se programo por demanda
+134,2023-12-19,2,1,13.5,No se programo por demanda
+135,2023-12-20,2,1,24.0,Falta de display
+136,2023-12-21,2,1,24.0,Falta de display
+137,2023-12-22,2,1,13.5,No se programo por demanda
+138,2023-12-22,4,1,18.0,Mantenimiento preventivo
+139,2023-12-23,1,1,8.0,No se programo por demanda (compensatorio)
+140,2023-12-23,2,1,16.0,No se programo por demanda (compensatorio)
+141,2023-12-23,3,1,16.0,No se programo por demanda (compensatorio)
+142,2023-12-23,4,1,16.0,Mantenimiento preventivo
+143,2023-12-23,4,1,8.0,No se programo por demanda (compensatorio)
+144,2023-12-24,1,1,24.0,No se programo por demanda (compensatorio)
+145,2023-12-24,4,1,24.0,No se programo por demanda (compensatorio)
+146,2023-12-24,2,1,24.0,No se programo por demanda (compensatorio)
+147,2023-12-25,4,1,16.0,No se programo por demanda (compensatorio)
+148,2023-12-25,4,1,8.0,Mantenimiento preventivo
+149,2023-12-25,2,1,24.0,No se programo por demanda (compensatorio)
+150,2023-12-26,4,1,24.0,Mantenimiento preventivo
+151,2023-12-26,2,1,13.5,No se programo por demanda
+152,2023-12-27,2,1,13.5,No se programo por demanda
+153,2023-12-27,4,1,24.0,Mantenimiento preventivo
+154,2023-12-28,2,1,13.5,No se programo por demanda
+155,2023-12-28,4,1,24.0,Mantenimiento preventivo
+156,2023-12-29,4,1,8.0,Mantenimiento preventivo
+157,2023-12-30,1,1,8.0,No se programo por demanda (compensatorio)
+158,2023-12-30,3,1,8.0,No se programo por demanda (compensatorio)
+159,2023-12-30,4,1,8.0,No se programo por demanda (compensatorio)
+160,2023-12-30,2,1,24.0,No se programo por demanda (compensatorio)
+161,2023-12-31,1,1,24.0,No se programo por demanda (compensatorio)
+162,2023-12-31,3,1,24.0,No se programo por demanda (compensatorio)
+163,2023-12-31,4,1,24.0,No se programo por demanda (compensatorio)
+164,2023-12-31,2,1,24.0,No se programo por demanda (compensatorio)
+165,2024-01-01,1,1,24.0,No se programo por demanda (compensatorio)
+166,2024-01-01,3,1,24.0,No se programo por demanda (compensatorio)
+167,2024-01-01,4,1,24.0,No se programo por demanda (compensatorio)
+168,2024-01-01,2,1,24.0,No se programo por demanda (compensatorio)
+169,2024-01-02,2,1,13.5,No se programo por demanda
+170,2024-01-03,1,1,16.0,Se cambio de referencia
+171,2024-01-03,2,1,13.5,No se programo por demanda
+172,2024-01-04,1,1,24.0,Se cambio de referencia
+173,2024-01-04,2,1,13.5,No se programo por demanda
+174,2024-01-05,2,1,16.0,No se programo por demanda (compensatorio)
+175,2024-01-06,2,1,24.0,No se programo por demanda (compensatorio)
+176,2024-01-07,1,1,24.0,No se programo por demanda (compensatorio)
+177,2024-01-07,2,1,24.0,No se programo por demanda (compensatorio)
+178,2024-01-07,2,1,24.0,No se programo por demanda (compensatorio)
+179,2024-01-07,3,1,24.0,No se programo por demanda (compensatorio)
+180,2024-01-08,1,1,24.0,No se programo por demanda (compensatorio)
+181,2024-01-08,3,1,24.0,No se programo por demanda (compensatorio)
+182,2024-01-08,2,1,24.0,No se programo por demanda (compensatorio)
+183,2024-01-08,2,1,24.0,No se programo por demanda (compensatorio)
+184,2024-01-09,2,1,13.5,No se programo por demanda
+185,2024-01-10,2,1,13.5,No se programo por demanda
+186,2024-01-11,1,1,8.0,Falta de operario
+187,2024-01-11,2,1,13.5,No se programo por demanda
+188,2024-01-12,2,1,24.0,Falta de pinturas
+189,2024-01-12,1,1,16.0,Se cambio de referencia
+190,2024-01-13,2,1,24.0,No se programo por demanda (compensatorio)
+191,2024-01-13,1,1,8.0,Se cambio de referencia
+192,2024-01-14,2,1,24.0,No se programo por demanda (compensatorio)
+193,2024-01-14,1,1,1.0,Falta de operario
+194,2024-01-14,4,1,1.0,Falta de operario
+195,2024-01-15,2,1,24.0,Falta de operario
+196,2024-01-16,2,1,24.0,Falta de operario
+197,2024-01-17,1,1,24.0,Falta de envase y/o tapa
+198,2024-01-17,2,1,13.5,No se programo por demanda
+199,2024-01-17,3,1,4.0,Se cambio de referencia
+200,2024-01-17,3,1,6.0,Se cambio de referencia
+201,2024-01-18,1,1,24.0,Falta de envase y/o tapa
+202,2024-01-18,2,1,24.0,No se programo por demanda
+203,2024-01-19,2,1,24.0,No se programo por demanda
+204,2024-01-19,1,1,24.0,Falta de envase y/o tapa
+205,2024-01-20,2,1,24.0,No se programo por demanda (compensatorio)
+206,2024-01-20,1,1,24.0,Falta de envase y/o tapa
+207,2024-01-21,2,1,24.0,No se programo por demanda (compensatorio)
+208,2024-01-21,1,1,24.0,No se programo por demanda (compensatorio)
+209,2024-01-21,3,1,24.0,No se programo por demanda (compensatorio)
+210,2024-01-21,4,1,24.0,No se programo por demanda (compensatorio)
+211,2024-01-22,2,1,24.0,Falta de envase y/o tapa
+212,2024-01-22,1,1,24.0,Falta de envase y/o tapa
+213,2024-01-23,2,1,24.0,Falta de envase y/o tapa
+214,2024-01-23,1,1,24.0,Falta de envase y/o tapa
+215,2024-01-24,2,1,24.0,Falta de envase y/o tapa
+216,2024-01-24,1,4,5.0,Dosificacion a 6 colores
+217,2024-01-25,2,1,24.0,Mantenimiento preventivo
+218,2024-01-25,1,1,8.0,Mantenimiento preventivo
+219,2024-01-25,3,1,4.0,Mantenimiento preventivo
+220,2024-01-25,3,1,2.0,Mantenimiento preventivo
+221,2024-01-26,2,1,24.0,Mantenimiento preventivo
+222,2024-01-26,3,1,16.0,Mantenimiento preventivo
+223,2024-01-27,2,1,24.0,Mantenimiento preventivo
+224,2024-01-27,3,1,24.0,Falta de display
+225,2024-01-28,2,1,24.0,No se programo por demanda (compensatorio)
+226,2024-01-28,1,1,24.0,No se programo por demanda (compensatorio)
+227,2024-01-28,3,1,24.0,No se programo por demanda (compensatorio)
+228,2024-01-29,2,1,24.0,Mantenimiento preventivo
+229,2024-01-30,2,1,24.0,Mantenimiento preventivo
+230,2024-01-30,1,1,4.0,Falta de envase y/o tapa
+231,2024-01-31,2,1,24.0,Mantenimiento preventivo
+232,2024-01-31,1,1,24.0,Falta de envase y/o tapa
+233,2024-02-01,2,1,24.0,Mantenimiento preventivo
+234,2024-02-01,1,1,24.0,Falta de envase y/o tapa
+235,2024-02-02,2,1,24.0,Mantenimiento preventivo
+236,2024-02-02,1,1,24.0,Falta de envase y/o tapa
+237,2024-02-03,2,1,24.0,Mantenimiento preventivo
+238,2024-02-03,1,1,24.0,Falta de envase y/o tapa
+239,2024-02-04,2,1,24.0,No se programo por demanda (compensatorio)
+240,2024-02-04,1,1,24.0,No se programo por demanda (compensatorio)
+241,2024-02-04,4,1,16.0,No se programo por demanda (compensatorio)
+242,2024-02-04,4,1,16.0,No se programo por demanda (compensatorio)
+243,2024-02-04,1,1,24.0,Falta de envase y/o tapa
+244,2024-02-05,2,1,24.0,Mantenimiento preventivo
+245,2024-02-05,1,1,16.0,Falta de envase y/o tapa
+246,2024-02-06,2,1,24.0,Mantenimiento preventivo
+247,2024-02-06,1,1,24.0,Falta de envase y/o tapa
+248,2024-02-06,3,1,20.0,Mantenimiento preventivo
+249,2024-02-07,2,1,24.0,Mantenimiento preventivo
+250,2024-02-07,1,1,24.0,Falta de envase y/o tapa
+251,2024-02-07,3,1,24.0,Falta de envase y/o tapa
+252,2024-02-08,2,1,24.0,Mantenimiento preventivo
+253,2024-02-08,1,1,24.0,Falta de envase y/o tapa
+254,2024-02-08,3,1,17.0,Falta de envase y/o tapa
+255,2024-02-09,1,1,24.0,Falta de envase y/o tapa
+256,2024-02-09,2,1,13.5,No se programo por demanda
+257,2024-02-10,1,1,24.0,Falta de envase y/o tapa
+258,2024-02-10,2,1,16.0,No se programo por demanda
+259,2024-02-11,1,1,24.0,No se programo por demanda (compensatorio)
+260,2024-02-11,4,1,1.0,No se programo por demanda (compensatorio)
+261,2024-02-11,2,1,24.0,No se programo por demanda (compensatorio)
+262,2024-02-12,1,1,13.5,No se programo por demanda
+263,2024-02-12,2,1,12.0,No se programo por demanda
+264,2024-02-13,1,1,13.5,No se programo por demanda
+265,2024-02-13,2,1,13.5,No se programo por demanda
+266,2024-02-14,1,1,13.5,No se programo por demanda
+267,2024-02-14,2,1,13.5,No se programo por demanda
+268,2024-02-15,1,1,13.5,No se programo por demanda
+269,2024-02-15,2,1,13.5,No se programo por demanda
+270,2024-02-16,1,1,24.0,Falta de envase y/o tapa
+271,2024-02-17,1,1,24.0,Falta de envase y/o tapa
+272,2024-02-17,2,1,24.0,No se programo por demanda (compensatorio)
+273,2024-02-18,1,1,24.0,No se programo por demanda (compensatorio)
+274,2024-02-18,2,1,24.0,No se programo por demanda (compensatorio)
+275,2024-02-18,3,1,24.0,No se programo por demanda (compensatorio)
+276,2024-02-19,2,1,13.5,No se programo por demanda
+277,2024-02-19,1,1,8.0,Se cambio de referencia
+278,2024-02-20,2,1,13.5,No se programo por demanda
+279,2024-02-21,2,1,13.5,No se programo por demanda
+280,2024-02-21,4,1,14.0,Falta de display
+281,2024-02-22,1,1,4.0,Falta de envase y/o tapa
+282,2024-02-22,4,1,24.0,Falta de display
+283,2024-02-22,3,1,20.0,Falta de display
+284,2024-02-22,2,1,13.5,No se programo por demanda
+285,2024-02-23,1,1,16.0,Falta de envase y/o tapa
+286,2024-02-23,4,1,24.0,Falta de display
+287,2024-02-23,3,1,24.0,Falta de display
+288,2024-02-23,2,1,13.5,No se programo por demanda
+289,2024-02-24,2,1,24.0,No se programo por demanda (compensatorio)
+290,2024-02-24,3,1,24.0,Falta de display
+291,2024-02-24,4,1,24.0,Falta de display
+292,2024-02-24,1,1,24.0,Falta de envase y/o tapa
+293,2024-02-25,2,1,24.0,No se programo por demanda (compensatorio)
+294,2024-02-25,3,1,24.0,No se programo por demanda (compensatorio)
+295,2024-02-25,4,1,24.0,No se programo por demanda (compensatorio)
+296,2024-02-25,4,1,24.0,No se programo por demanda (compensatorio)
+297,2024-02-25,1,1,24.0,No se programo por demanda (compensatorio)
+298,2024-02-26,3,1,24.0,Falta de display
+299,2024-02-26,4,1,24.0,Falta de display
+300,2024-02-26,2,1,13.5,No se programo por demanda
+301,2024-02-26,1,1,24.0,Falta de envase y/o tapa
+302,2024-02-27,3,1,24.0,Falta de display
+303,2024-02-27,4,1,24.0,Falta de display
+304,2024-02-27,2,1,13.5,No se programo por demanda
+305,2024-02-27,1,1,24.0,Falta de envase y/o tapa
+306,2024-02-28,3,1,24.0,Falta de display
+307,2024-02-28,4,1,24.0,Falta de display
+308,2024-02-28,2,1,13.5,No se programo por demanda
+309,2024-02-28,1,1,24.0,Falta de envase y/o tapa
+310,2024-02-29,3,1,24.0,Falta de display
+311,2024-02-29,4,1,24.0,Falta de display
+312,2024-02-29,2,1,13.5,No se programo por demanda
+313,2024-02-29,1,1,24.0,Falta de envase y/o tapa
+314,2024-03-01,3,1,24.0,Falta de display
+315,2024-03-01,4,1,24.0,Falta de display
+316,2024-03-01,1,1,24.0,Falta de envase y/o tapa
+317,2024-03-01,2,1,13.5,No se programo por demanda
+318,2024-03-02,3,1,24.0,Falta de display
+319,2024-03-02,4,1,24.0,Falta de display
+320,2024-03-02,1,1,24.0,Falta de envase y/o tapa
+321,2024-03-02,2,1,24.0,No se programo por demanda (compensatorio)
+322,2024-03-03,3,1,24.0,No se programo por demanda (compensatorio)
+323,2024-03-03,4,1,24.0,No se programo por demanda (compensatorio)
+324,2024-03-03,1,1,24.0,No se programo por demanda (compensatorio)
+325,2024-03-03,2,1,24.0,No se programo por demanda (compensatorio)
+326,2024-03-04,4,1,24.0,Falta de display
+327,2024-03-04,1,1,24.0,Falta de envase y/o tapa
+328,2024-03-04,2,1,13.5,No se programo por demanda
+329,2024-03-04,3,1,16.0,No se programo por demanda
+330,2024-03-05,4,1,24.0,Falta de display
+331,2024-03-05,1,1,16.0,No se programo por demanda
+332,2024-03-05,2,1,13.5,No se programo por demanda
+333,2024-03-05,3,1,8.0,No se programo por demanda
+334,2024-03-06,4,1,24.0,Falta de display
+335,2024-03-06,1,1,8.0,No se programo por demanda
+336,2024-03-06,2,1,13.5,No se programo por demanda
+337,2024-03-06,3,1,24.0,Falta de display
+338,2024-03-07,4,1,24.0,Falta de display
+339,2024-03-07,1,1,16.0,Falta de display
+340,2024-03-07,2,1,13.5,No se programo por demanda
+341,2024-03-07,3,1,24.0,Falta de display
+342,2024-03-08,4,1,24.0,Falta de display
+343,2024-03-08,3,1,24.0,Falta de display
+344,2024-03-08,1,1,8.0,No se programo por demanda
+345,2024-03-08,2,1,13.5,No se programo por demanda
+346,2024-03-09,4,1,24.0,Falta de display
+347,2024-03-09,3,1,24.0,Falta de display
+348,2024-03-09,1,1,8.0,No se programo por demanda (compensatorio)
+349,2024-03-09,2,1,24.0,No se programo por demanda (compensatorio)
+350,2024-03-10,4,1,24.0,No se programo por demanda (compensatorio)
+351,2024-03-10,3,1,24.0,No se programo por demanda (compensatorio)
+352,2024-03-10,2,1,24.0,No se programo por demanda (compensatorio)
+353,2024-03-10,1,1,24.0,No se programo por demanda (compensatorio)
+354,2024-03-11,1,1,8.0,No se programo por demanda
+355,2024-03-11,2,1,13.5,No se programo por demanda
+356,2024-03-11,3,1,24.0,Falta de display
+357,2024-03-11,4,1,24.0,Falta de display
+358,2024-03-12,1,1,8.0,No se programo por demanda
+359,2024-03-12,2,1,13.5,
+360,2024-03-12,3,1,24.0,Falta de display
+361,2024-03-12,4,1,24.0,Falta de display
+362,2024-03-13,2,1,13.5,No se programo por demanda
+363,2024-03-13,3,1,24.0,Falta de display
+364,2024-03-13,4,1,24.0,Falta de display
+365,2024-03-13,1,1,8.0,No se programo por demanda
+366,2024-03-14,3,1,24.0,Falta de display
+367,2024-03-14,4,1,24.0,Falta de display
+368,2024-03-14,1,3,8.0,No se programo por demanda
+369,2024-03-14,2,1,13.5,No se programo por demanda
+370,2024-03-15,3,1,24.0,Falta de display
+371,2024-03-15,4,1,24.0,Falta de display
+372,2024-03-15,1,1,8.0,No se programo por demanda
+373,2024-03-15,2,1,13.5,No se programo por demanda
+374,2024-03-16,3,1,24.0,Falta de display
+375,2024-03-16,4,1,24.0,Falta de display
+376,2024-03-16,2,1,24.0,No se programo por demanda (compensatorio)
+377,2024-03-16,1,1,8.0,No se programo por demanda
+378,2024-03-17,3,1,24.0,No se programo por demanda (compensatorio)
+379,2024-03-17,4,1,24.0,No se programo por demanda (compensatorio)
+380,2024-03-17,2,1,24.0,No se programo por demanda (compensatorio)
+381,2024-03-18,1,1,8.0,No se programo por demanda
+382,2024-03-18,2,1,13.5,No se programo por demanda
+383,2024-03-18,1,1,24.0,Falta de display
+384,2024-03-18,3,1,24.0,Falta de display
+385,2024-03-18,4,1,24.0,Falta de display
+386,2024-03-19,2,1,13.5,No se programo por demanda
+387,2024-03-19,1,1,16.0,No se programo por demanda
+388,2024-03-19,3,1,24.0,Falta de display
+389,2024-03-19,4,1,24.0,Falta de display
+390,2024-03-20,3,1,24.0,Falta de display
+391,2024-03-20,1,1,24.0,No se programo por demanda
+392,2024-03-20,2,1,13.5,No se programo por demanda
+393,2024-03-20,4,1,16.0,No se programo por demanda
+394,2024-03-20,4,1,16.0,
+395,2024-03-21,1,1,24.0,No se programo por demanda
+396,2024-03-21,2,1,14.0,No se programo por demanda
+397,2024-03-21,3,1,24.0,Falta de display
+398,2024-03-21,4,1,8.0,No se programo por demanda
+399,2024-03-22,1,1,24.0,No se programo por demanda
+400,2024-03-22,2,1,24.0,No se programo por demanda
+401,2024-03-22,3,1,24.0,Falta de display
+402,2024-03-22,4,1,16.0,No se programo por demanda
+403,2024-03-23,1,1,24.0,No se programo por demanda
+404,2024-03-23,2,1,24.0,No se programo por demanda (compensatorio)
+405,2024-03-23,3,1,24.0,Falta de display
+406,2024-03-23,4,1,24.0,No se programo por demanda
+407,2024-03-24,1,1,24.0,No se programo por demanda (compensatorio)
+408,2024-03-24,2,1,24.0,No se programo por demanda (compensatorio)
+409,2024-03-24,3,1,24.0,No se programo por demanda (compensatorio)
+410,2024-03-24,4,1,24.0,No se programo por demanda (compensatorio)
+411,2024-03-25,1,1,24.0,No se programo por demanda (compensatorio)
+412,2024-03-25,2,1,24.0,No se programo por demanda (compensatorio)
+413,2024-03-25,3,1,24.0,No se programo por demanda (compensatorio)
+414,2024-03-25,4,1,24.0,No se programo por demanda (compensatorio)
+415,2024-03-26,1,1,24.0,No se programo por demanda (compensatorio)
+416,2024-03-26,2,1,24.0,No se programo por demanda (compensatorio)
+417,2024-03-26,4,1,24.0,Semana de reseso
+418,2024-03-26,3,1,24.0,Semana de reseso
+419,2024-03-27,1,1,24.0,Semana de reseso
+420,2024-03-27,2,1,24.0,Semana de reseso
+421,2024-03-27,3,1,24.0,Semana de reseso
+422,2024-03-27,4,1,24.0,Semana de reseso
+423,2024-03-28,1,1,24.0,Semana de reseso
+424,2024-03-28,2,1,24.0,Semana de reseso
+425,2024-03-28,3,1,24.0,Semana de reseso
+426,2024-03-28,4,1,24.0,Semana de reseso
+427,2024-03-29,1,1,24.0,Semana de reseso
+428,2024-03-29,2,1,24.0,Semana de reseso
+429,2024-03-29,3,1,24.0,Semana de reseso
+430,2024-03-29,4,1,24.0,Semana de reseso
+431,2024-03-30,1,1,24.0,Semana de reseso
+432,2024-03-30,2,1,24.0,Semana de reseso
+433,2024-03-30,3,1,24.0,Semana de reseso
+434,2024-03-30,4,1,24.0,Semana de reseso
+435,2024-03-31,1,1,24.0,Semana de reseso
+436,2024-03-31,2,1,24.0,Semana de reseso
+437,2024-03-31,3,1,24.0,Semana de reseso
+438,2024-03-31,4,3,16.0,
+439,2024-04-01,1,1,24.0,No se programo por demanda
+440,2024-04-01,2,1,24.0,No se programo por demanda
+441,2024-04-01,3,1,24.0,No se programo por demanda
+442,2024-04-02,1,1,24.0,No se programo por demanda
+443,2024-04-02,3,1,24.0,No se programo por demanda
+444,2024-04-02,2,1,24.0,No se programo por demanda
+445,2024-04-03,3,1,24.0,
+446,2024-04-03,2,1,24.0,
+447,2024-04-03,1,1,24.0,No se programo por demanda
+448,2024-04-04,1,1,24.0,
+449,2024-04-04,2,1,24.0,No se programo por demanda
+450,2024-04-04,3,1,24.0,No se programo por demanda
+451,2024-04-05,1,1,24.0,No se programo por demanda
+452,2024-04-05,2,1,24.0,No se programo por demanda
+453,2024-04-05,3,1,24.0,No se programo por demanda
+454,2024-04-05,4,5,8.0,Materia prima
+455,2024-04-06,1,1,24.0,No se programo por demanda
+456,2024-04-06,2,1,24.0,No se programo por demanda
+457,2024-04-06,3,1,16.0,No se programo por demanda
+458,2024-04-06,4,5,24.0,Materia prima
+459,2024-04-07,1,1,24.0,No se programo por demanda (compensatorio)
+460,2024-04-07,2,1,24.0,No se programo por demanda (compensatorio)
+461,2024-04-07,4,5,24.0,No se programo por demanda (compensatorio)
+462,2024-04-07,3,1,24.0,No se programo por demanda (compensatorio)
+463,2024-04-08,1,1,24.0,No se programo por demanda
+464,2024-04-08,2,1,24.0,
+465,2024-04-09,3,1,16.0,No se programo por demanda
+466,2024-04-09,1,1,24.0,No se programo por demanda
+467,2024-04-09,2,1,24.0,No se programo por demanda
+468,2024-04-10,4,1,8.0,No se programo por demanda
+469,2024-04-10,1,1,24.0,No se programo por demanda
+470,2024-04-10,2,1,24.0,No se programo por demanda
+471,2024-04-11,3,3,8.0,
+472,2024-04-11,4,1,8.0,No se programo por demanda
+473,2024-04-11,1,1,24.0,No se programo por demanda
+474,2024-04-11,2,1,24.0,No se programo por demanda
+475,2024-04-12,1,1,24.0,No se programo por demanda
+476,2024-04-12,2,1,24.0,No se programo por demanda
+477,2024-04-12,3,1,16.0,No se programo por demanda
+478,2024-04-13,1,1,24.0,No se programo por demanda
+479,2024-04-13,1,1,16.0,No se programo por demanda
+480,2024-04-13,2,1,24.0,No se programo por demanda
+481,2024-04-14,2,1,24.0,No se programo por demanda (compensatorio)
+482,2024-04-14,1,1,24.0,No se programo por demanda (compensatorio)
+483,2024-04-15,2,1,24.0,No se programo por demanda
+484,2024-04-15,1,1,24.0,No se programo por demanda
+485,2024-04-16,1,1,24.0,No se programo por demanda
+486,2024-04-16,1,1,24.0,No se programo por demanda
+487,2024-04-16,2,1,24.0,No se programo por demanda
+488,2024-04-17,2,1,24.0,No se programo por demanda
+489,2024-04-17,1,1,13.5,No se programo por demanda
+490,2024-04-18,2,1,24.0,No se programo por demanda
+491,2024-04-18,1,1,13.5,No se programo por demanda
+492,2024-04-19,2,1,24.0,No se programo por demanda
+493,2024-04-19,1,1,13.5,No se programo por demanda
+494,2024-04-20,2,1,24.0,No se programo por demanda (compensatorio)
+495,2024-04-20,1,1,24.0,No se programo por demanda (compensatorio)
+496,2024-04-20,1,3,13.5,No se programo por demanda
+497,2024-04-21,2,1,24.0,No se programo por demanda (compensatorio)
+498,2024-04-21,1,1,24.0,No se programo por demanda (compensatorio)
+499,2024-04-22,1,1,13.5,No se programo por demanda
+500,2024-04-22,2,1,24.0,No se programo por demanda
+501,2024-04-23,3,6,6.0,Falta de operario
+502,2024-04-23,4,1,8.0,Se fue la luz / agua
+503,2024-04-23,1,1,13.5,No se programo por demanda
+504,2024-04-23,2,1,24.0,No se programo por demanda
+505,2024-04-24,1,1,13.5,No se programo por demanda
+506,2024-04-24,2,1,24.0,No se programo por demanda
+507,2024-04-25,1,1,13.5,No se programo por demanda
+508,2024-04-25,2,1,24.0,No se programo por demanda
+509,2024-04-26,1,1,13.5,No se programo por demanda
+510,2024-04-26,2,1,13.5,No se programo por demanda
+511,2024-04-27,4,1,8.0,No se programo por demanda
+512,2024-04-27,1,1,24.0,No se programo por demanda (compensatorio)
+513,2024-04-27,2,1,24.0,No se programo por demanda
+514,2024-04-28,3,1,16.0,No se programo por demanda
+515,2024-04-28,3,1,16.0,No se programo por demanda
+516,2024-04-28,3,1,16.0,No se programo por demanda
+517,2024-04-28,4,1,16.0,No se programo por demanda
+518,2024-04-28,1,1,24.0,No se programo por demanda
+519,2024-04-28,2,1,24.0,No se programo por demanda
+520,2024-04-29,1,1,13.5,No se programo por demanda
+521,2024-04-29,2,1,13.5,No se programo por demanda
+522,2024-04-30,3,1,8.0,No se programo por demanda
+523,2024-04-30,1,1,13.5,No se programo por demanda
+524,2024-04-30,2,1,13.5,No se programo por demanda
+525,2024-05-01,3,1,16.0,No se programo por demanda
+526,2024-05-01,1,1,24.0,No se programo por demanda
+527,2024-05-01,2,1,24.0,No se programo por demanda (compensatorio)
+528,2024-05-02,2,1,13.5,No se programo por demanda
+529,2024-05-03,1,1,13.5,No se programo por demanda
+530,2024-05-03,2,1,13.5,No se programo por demanda
+531,2024-05-04,1,1,19.0,No se programo por demanda
+532,2024-05-04,2,1,24.0,No se programo por demanda
+533,2024-05-04,3,6,5.0,Falta de operario
+534,2024-05-04,3,1,8.0,
+535,2024-05-04,4,1,8.0,No se programo por demanda
+536,2024-05-05,1,1,24.0,No se programo por demanda
+537,2024-05-05,2,1,24.0,No se programo por demanda
+538,2024-05-05,3,1,16.0,No se programo por demanda
+539,2024-05-05,4,1,16.0,No se programo por demanda
+540,2024-05-06,1,1,5.5,No se programo por demanda
+541,2024-05-06,2,1,13.5,No se programo por demanda
+542,2024-05-07,1,1,13.5,No se programo por demanda
+543,2024-05-07,2,1,13.5,No se programo por demanda
+544,2024-05-08,2,1,13.5,No se programo por demanda
+545,2024-05-08,4,5,6.0,Materia prima
+546,2024-05-09,1,1,13.5,No se programo por demanda
+547,2024-05-09,2,1,13.5,No se programo por demanda
+548,2024-05-10,2,1,13.5,No se programo por demanda
+549,2024-05-10,1,1,13.5,No se programo por demanda
+550,2024-05-11,1,1,24.0,No se programo por demanda
+551,2024-05-11,2,1,24.0,No se programo por demanda
+552,2024-05-11,3,1,8.0,No se programo por demanda
+553,2024-05-11,4,1,8.0,No se programo por demanda
+554,2024-05-12,1,1,24.0,No se programo por demanda
+555,2024-05-12,2,1,24.0,No se programo por demanda
+556,2024-05-12,3,1,24.0,No se programo por demanda
+557,2024-05-12,4,1,24.0,No se programo por demanda
+558,2024-05-13,1,1,24.0,No se programo por demanda
+559,2024-05-13,2,1,24.0,No se programo por demanda
+560,2024-05-13,3,1,16.0,No se programo por demanda
+561,2024-05-13,4,1,16.0,No se programo por demanda
+562,2024-05-14,2,1,13.5,No se programo por demanda
+563,2024-05-14,1,1,13.5,No se programo por demanda
+564,2024-05-14,4,2,6.0,
+565,2024-05-14,4,2,8.0,
+566,2024-05-14,3,7,7.5,
+567,2024-05-15,1,6,1.0,
+568,2024-05-16,2,1,13.5,No se programo por demanda
+569,2024-05-16,4,7,24.0,Falta de envase y/o tapa
+570,2024-05-16,1,7,24.0,Falta de display
+571,2024-05-17,4,7,16.0,Falta de envase y/o tapa
+572,2024-05-17,2,1,13.5,Falta de pinturas
+573,2024-05-17,1,7,20.0,Falta de display
+574,2024-05-17,3,7,8.0,Falta de envase y/o tapa
+575,2024-05-18,4,1,8.0,No se programo por demanda
+576,2024-05-18,2,1,24.0,No se programo por demanda
+577,2024-05-18,4,1,8.0,No se programo por demanda
+578,2024-05-18,1,1,24.0,No se programo por demanda
+579,2024-05-18,3,7,24.0,Falta de envase y/o tapa
+580,2024-05-19,2,1,24.0,No se programo por demanda
+581,2024-05-19,1,1,24.0,No se programo por demanda
+582,2024-05-19,3,1,24.0,No se programo por demanda
+583,2024-05-19,3,1,24.0,No se programo por demanda
+584,2024-05-20,2,1,14.0,No se programo por demanda
+585,2024-05-20,4,1,8.0,No se programo por demanda
+586,2024-05-20,1,1,13.5,No se programo por demanda
+587,2024-05-20,3,7,24.0,Falta de envase y/o tapa
+588,2024-05-21,2,5,20.0,Falta de envase y/o tapa
+589,2024-05-21,4,1,8.0,No se programo por demanda
+590,2024-05-21,1,7,24.0,Falta de envase y/o tapa
+591,2024-05-21,3,7,24.0,Falta de envase y/o tapa
+592,2024-05-22,2,1,18.0,Materia prima
+593,2024-05-22,4,1,13.5,Materia prima
+594,2024-05-22,1,7,24.0,Falta de envase y/o tapa
+595,2024-05-22,3,7,24.0,Falta de envase y/o tapa
+596,2024-05-23,2,1,13.5,No se programo por demanda
+597,2024-05-23,4,7,24.0,Materia prima
+598,2024-05-23,1,7,24.0,Falta de envase y/o tapa
+599,2024-05-23,3,7,24.0,Falta de envase y/o tapa
+600,2024-05-24,2,1,13.5,No se programo por demanda
+601,2024-05-24,4,7,24.0,Materia prima
+602,2024-05-24,1,7,24.0,Falta de envase y/o tapa
+603,2024-05-24,3,7,24.0,Falta de envase y/o tapa
+604,2024-05-25,2,1,24.0,No se programo por demanda
+605,2024-05-25,4,7,24.0,Materia prima
+606,2024-05-25,1,7,24.0,Falta de envase y/o tapa
+607,2024-05-25,3,7,24.0,Falta de envase y/o tapa
+608,2024-05-26,2,1,24.0,No se programo por demanda
+609,2024-05-26,4,7,24.0,Materia prima
+610,2024-05-26,1,7,24.0,Falta de envase y/o tapa
+611,2024-05-26,3,7,24.0,Falta de envase y/o tapa
+612,2024-05-27,2,1,13.5,No se programo por demanda
+613,2024-05-27,4,7,24.0,Materia prima
+614,2024-05-27,1,7,24.0,Falta de envase y/o tapa
+615,2024-05-27,3,1,16.0,No se programo por demanda
+616,2024-05-28,2,1,13.5,No se programo por demanda
+617,2024-05-28,4,7,24.0,Materia prima
+618,2024-05-28,1,7,24.0,Falta de envase y/o tapa
+619,2024-05-28,3,1,8.0,No se programo por demanda
+620,2024-05-29,2,1,13.5,No se programo por demanda
+621,2024-05-29,4,7,24.0,Materia prima
+622,2024-05-29,1,7,24.0,Falta de envase y/o tapa
+623,2024-05-29,3,1,8.0,No se programo por demanda
+624,2024-05-30,4,7,24.0,Materia prima
+625,2024-05-30,2,1,13.5,No se programo por demanda
+626,2024-05-30,1,7,24.0,Falta de envase y/o tapa
+627,2024-05-31,4,7,24.0,Materia prima
+628,2024-05-31,2,1,13.5,No se programo por demanda
+629,2024-05-31,1,7,24.0,Falta de envase y/o tapa
+630,2024-05-31,1,6,1.0,
+631,2024-06-01,1,7,24.0,Falta de envase y/o tapa
+632,2024-06-01,4,7,24.0,Materia prima
+633,2024-06-02,1,7,24.0,Falta de envase y/o tapa
+634,2024-06-02,4,7,24.0,Materia prima
+635,2024-06-03,1,7,24.0,Falta de envase y/o tapa
+636,2024-06-03,4,7,24.0,Materia prima
+637,2024-06-04,1,7,24.0,Falta de envase y/o tapa
+638,2024-06-04,2,1,13.5,No se programo por demanda
+639,2024-06-04,3,1,8.0,No se programo por demanda
+640,2024-06-05,1,7,24.0,Falta de envase y/o tapa
+641,2024-06-05,2,1,13.5,No se programo por demanda
+642,2024-06-05,4,1,8.0,No se programo por demanda
+643,2024-06-06,1,7,24.0,Falta de envase y/o tapa
+644,2024-06-06,2,1,13.5,No se programo por demanda
+645,2024-06-06,4,1,8.0,No se programo por demanda
+646,2024-06-07,1,7,24.0,Falta de envase y/o tapa
+647,2024-06-07,4,1,8.0,No se programo por demanda
+648,2024-06-07,2,1,13.5,No se programo por demanda
+649,2024-06-07,3,1,16.0,No se programo por demanda
+650,2024-06-08,1,7,24.0,Falta de envase y/o tapa
+651,2024-06-08,4,1,8.0,No se programo por demanda
+652,2024-06-09,1,1,24.0,No se programo por demanda
+653,2024-06-10,1,1,24.0,No se programo por demanda
+654,2024-06-11,2,1,13.5,No se programo por demanda
+655,2024-06-11,4,7,5.0,
+656,2024-06-12,1,4,20.0,No se programo por demanda
+657,2024-06-12,2,1,13.5,No se programo por demanda
+658,2024-06-13,1,4,2.0,No se programo por demanda
+659,2024-06-13,2,1,13.5,No se programo por demanda
+660,2024-06-14,1,4,6.5,
+661,2024-06-14,2,1,13.5,No se programo por demanda
+662,2024-06-17,2,8,4.0,Se fue la luz / agua
+663,2024-06-18,2,1,13.5,No se programo por demanda
+664,2024-06-19,1,1,16.0,No se programo por demanda
+665,2024-06-19,2,1,14.0,No se programo por demanda
+666,2024-06-20,2,2,4.5,
+667,2024-06-23,4,4,4.0,
+668,2024-06-24,1,1,16.0,No se programo por demanda
+669,2024-07-04,3,3,2.0,
+670,2024-07-08,1,6,1.0,
+671,2024-07-09,2,1,13.5,No se programo por demanda
+672,2024-07-10,2,1,13.5,No se programo por demanda
+673,2024-07-11,2,1,13.5,No se programo por demanda
+674,2024-07-19,4,7,7.0,Falta de pinturas
+675,2024-07-19,3,9,3.5,
+676,2024-07-22,4,6,3.0,
+677,2024-07-22,3,1,3.0,
+678,2024-08-06,1,3,5.0,
+679,2024-08-08,3,7,3.0,
+680,2024-08-09,3,7,4.0,
+681,2024-08-28,1,6,1.0,
+682,2024-08-28,1,6,1.0,
+683,2024-09-05,1,3,5.0,
+684,2024-09-05,1,3,5.0,
+685,2024-09-06,1,3,5.0,
+686,2024-09-16,1,4,6.0,
+687,2024-09-16,3,3,6.0,
+688,2024-09-16,3,3,6.0,
+689,2024-09-17,3,3,6.0,
+690,2024-09-17,3,3,6.0,
+691,2024-09-17,3,3,6.0,
+692,2024-09-19,3,7,6.0,
+693,2022-01-01,4,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+694,2022-01-01,3,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+695,2022-01-01,2,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+696,2022-01-01,1,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+697,2022-01-02,4,11,24.0,FALTA DE DISPLAY
+698,2022-01-02,3,10,17.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+699,2022-01-02,2,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+700,2022-01-02,1,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+701,2022-01-03,4,11,24.0,FALTA DE DISPLAY
+702,2022-01-03,3,10,5.0,FALTA DE OPERARIO
+703,2022-01-03,2,10,24.0,FALTA DE OPERARIO
+704,2022-01-03,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+705,2022-01-04,4,11,24.0,FALTA DE DISPLAY
+706,2022-01-04,3,10,5.0,FALTA DE OPERARIO
+707,2022-01-04,2,10,24.0,FALTA DE OPERARIO
+708,2022-01-04,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+709,2022-01-05,4,11,24.0,FALTA DE DISPLAY
+710,2022-01-05,3,10,5.0,FALTA DE OPERARIO
+711,2022-01-05,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+712,2022-01-05,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+713,2022-01-06,4,11,24.0,FALTA DE DISPLAY
+714,2022-01-06,3,10,14.0,FALTA DE OPERARIO
+715,2022-01-06,2,10,14.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+716,2022-01-06,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+717,2022-01-07,4,10,15.0,NO SE PROGRAMO POR DEMANDA
+718,2022-01-07,3,11,18.0,MATERIA PRIMA
+719,2022-01-07,2,11,17.0,FALTA DE DISPLAY
+720,2022-01-07,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+721,2022-01-08,3,10,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+722,2022-01-08,3,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+723,2022-01-08,2,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+724,2022-01-08,1,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+725,2022-01-09,4,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+726,2022-01-09,3,10,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+727,2022-01-09,3,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+728,2022-01-09,2,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+729,2022-01-09,1,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+730,2022-01-10,4,10,16.0,NO SE PROGRAMO POR DEMANDA
+731,2022-01-10,3,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+732,2022-01-10,2,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+733,2022-01-10,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+734,2022-01-11,3,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+735,2022-01-11,2,10,20.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+736,2022-01-11,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+737,2022-01-12,3,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+738,2022-01-12,2,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+739,2022-01-12,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+740,2022-01-13,3,11,15.0,MATERIA PRIMA
+741,2022-01-13,2,10,20.0,NO SE PROGRAMO POR DEMANDA
+742,2022-01-13,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+743,2022-01-14,3,10,5.0,FALTA DE OPERARIO
+744,2022-01-14,2,10,16.0,NO SE PROGRAMO POR DEMANDA
+745,2022-01-14,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+746,2022-01-15,3,10,16.0,FALTA DE OPERARIO
+747,2022-01-15,2,10,21.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+748,2022-01-15,1,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+749,2022-01-16,4,12,17.0,FALTA DE PINTURAS
+750,2022-01-16,3,10,16.0,FALTA DE OPERARIO
+751,2022-01-16,2,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+752,2022-01-16,1,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+753,2022-01-17,4,10,8.0,FALTA DE OPERARIO
+754,2022-01-17,2,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+755,2022-01-17,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+756,2022-01-18,2,10,16.0,NO SE PROGRAMO POR DEMANDA
+757,2022-01-18,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+758,2022-01-19,2,10,16.0,NO SE PROGRAMO POR DEMANDA
+759,2022-01-19,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+760,2022-01-20,3,10,4.0,FALTA DE OPERARIO
+761,2022-01-20,2,10,20.0,NO SE PROGRAMO POR DEMANDA
+762,2022-01-20,1,11,24.0,MATERIA PRIMA
+763,2022-01-21,3,11,16.0,FALTA DE DISPLAY
+764,2022-01-21,2,10,16.0,NO SE PROGRAMO POR DEMANDA
+765,2022-01-21,1,11,24.0,MATERIA PRIMA
+766,2022-01-22,4,13,24.0,RESULTADOS DE LABORATORIO
+767,2022-01-22,3,11,24.0,FALTA DE DISPLAY
+768,2022-01-22,2,10,16.0,NO SE PROGRAMO POR DEMANDA
+769,2022-01-22,1,11,24.0,MATERIA PRIMA
+770,2022-01-23,4,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+771,2022-01-23,3,11,24.0,FALTA DE DISPLAY
+772,2022-01-23,2,10,20.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+773,2022-01-23,1,11,24.0,MATERIA PRIMA
+774,2022-01-24,4,10,8.0,FALTA DE OPERARIO
+775,2022-01-24,3,11,24.0,FALTA DE DISPLAY
+776,2022-01-24,2,10,16.0,NO SE PROGRAMO POR DEMANDA
+777,2022-01-24,1,11,24.0,MATERIA PRIMA
+778,2022-01-25,3,11,8.0,MATERIA PRIMA
+779,2022-01-25,2,10,16.0,NO SE PROGRAMO POR DEMANDA
+780,2022-01-25,1,11,24.0,MATERIA PRIMA
+781,2022-01-26,3,11,12.0,FALTA DE DISPLAY
+782,2022-01-26,2,10,16.0,NO SE PROGRAMO POR DEMANDA
+783,2022-01-26,1,11,13.0,MATERIA PRIMA
+784,2022-01-27,3,11,9.0,FALTA DE DISPLAY
+785,2022-01-27,2,10,16.0,NO SE PROGRAMO POR DEMANDA
+786,2022-01-27,1,11,13.0,MATERIA PRIMA
+787,2022-01-28,3,10,8.0,FALTA DE OPERARIO
+788,2022-01-28,2,10,16.0,FALTA DE OPERARIO
+789,2022-01-28,1,10,13.0,FALTA DE OPERARIO
+790,2022-01-29,4,13,8.0,RESULTADOS DE LABORATORIO
+791,2022-01-29,3,10,16.0,FALTA DE OPERARIO
+792,2022-01-29,2,10,16.0,FALTA DE OPERARIO
+793,2022-01-29,1,14,24.0,SE CAMBIO DE REFERENCIA
+794,2022-01-30,4,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+795,2022-01-30,3,10,17.0,FALTA DE OPERARIO
+796,2022-01-30,2,10,16.0,FALTA DE OPERARIO
+797,2022-01-30,1,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+798,2022-01-31,4,15,8.0,DOSIFICACION A 6 COLORES
+799,2022-01-31,2,10,16.0,FALTA DE OPERARIO
+800,2022-01-31,1,14,24.0,SE CAMBIO DE REFERENCIA
+801,2022-02-01,3,11,16.0,FALTA DE DISPLAY
+802,2022-02-01,2,10,24.0,FALTA DE OPERARIO
+803,2022-02-01,1,11,24.0,FALTA DE DISPLAY
+804,2022-02-02,3,10,8.0,FALTA DE OPERARIO
+805,2022-02-02,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+806,2022-02-02,1,13,24.0,RESULTADOS DE LABORATORIO
+807,2022-02-03,4,14,19.0,SE CAMBIO DE REFERENCIA
+808,2022-02-03,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+809,2022-02-03,1,15,24.0,DOSIFICACION A 6 COLORES
+810,2022-02-04,3,13,16.0,RESULTADOS DE LABORATORIO
+811,2022-02-04,2,11,24.0,MATERIA PRIMA
+812,2022-02-04,1,11,16.0,FALTA DE DISPLAY
+813,2022-02-05,3,13,16.0,RESULTADOS DE LABORATORIO
+814,2022-02-05,2,11,24.0,MATERIA PRIMA
+815,2022-02-05,1,11,24.0,FALTA DE DISPLAY
+816,2022-02-06,4,16,12.0,CAMBIO DE PROBEDOR DE ENERGIA EN LA SUBESTACION
+817,2022-02-06,3,16,12.0,ARREGLO DE LA SUBESTACION
+818,2022-02-06,2,11,24.0,MATERIA PRIMA
+819,2022-02-06,1,16,24.0,ARREGLO EN LA SUBESTACION EMERGETICA Y DISPLAY
+820,2022-02-07,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+821,2022-02-07,1,11,24.0,FALTA DE DISPLAY
+822,2022-02-08,2,11,24.0,MATERIA PRIMA
+823,2022-02-08,1,11,24.0,FALTA DE DISPLAY
+824,2022-02-09,2,11,24.0,MATERIA PRIMA
+825,2022-02-09,1,11,24.0,FALTA DE DISPLAY
+826,2022-02-10,2,11,24.0,MATERIA PRIMA
+827,2022-02-10,1,11,24.0,FALTA DE DISPLAY
+828,2022-02-11,2,11,24.0,MATERIA PRIMA
+829,2022-02-11,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+830,2022-02-12,2,11,24.0,MATERIA PRIMA
+831,2022-02-12,1,11,24.0,FALTA DE DISPLAY
+832,2022-02-13,4,12,8.0,FALTA DE ENVASE Y/O TAPA
+833,2022-02-13,3,12,8.0,FALTA DE ENVASE Y/O TAPA
+834,2022-02-13,2,11,24.0,MATERIA PRIMA
+835,2022-02-13,1,11,24.0,FALTA DE DISPLAY
+836,2022-02-14,4,13,16.0,RESULTADOS DE LABORATORIO
+837,2022-02-14,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+838,2022-02-14,1,16,8.0,SE FUE LA LUZ
+839,2022-02-14,1,10,8.0,FALTA DE OPERARIO
+840,2022-02-15,4,13,24.0,RESULTADOS DE LABORATORIO
+841,2022-02-15,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+842,2022-02-15,1,16,8.0,FALTA DE OPERARIO
+843,2022-02-16,4,13,24.0,RESULTADOS DE LABORATORIO
+844,2022-02-16,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+845,2022-02-16,1,10,16.0,FALTA DE OPERARIO
+846,2022-02-17,4,12,8.0,FALTA DE ENVASE Y/O TAPA
+847,2022-02-17,3,12,8.0,FALTA DE ENVASE Y/O TAPA
+848,2022-02-17,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+849,2022-02-17,1,10,16.0,NO SE PROGRAMO POR DEMANDA
+850,2022-02-18,3,10,16.0,FALTA DE OPERARIO
+851,2022-02-18,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+852,2022-02-18,1,10,16.0,NO SE PROGRAMO POR DEMANDA
+853,2022-02-19,3,10,16.0,FALTA DE OPERARIO
+854,2022-02-19,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+855,2022-02-19,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+856,2022-02-20,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+857,2022-02-20,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+858,2022-02-21,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+859,2022-02-21,1,10,16.0,NO SE PROGRAMO POR DEMANDA
+860,2022-02-22,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+861,2022-02-22,1,10,16.0,NO SE PROGRAMO POR DEMANDA
+862,2022-02-23,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+863,2022-02-23,1,10,16.0,NO SE PROGRAMO POR DEMANDA
+864,2022-02-24,4,13,16.0,RESULTADOS DE LABORATORIO
+865,2022-02-24,3,13,8.0,RESULTADOS DE LABORATORIO
+866,2022-02-24,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+867,2022-02-24,1,12,24.0,NO SE PROGRAMO POR DEMANDA
+868,2022-02-25,4,13,24.0,RESULTADOS DE LABORATORIO
+869,2022-02-25,3,13,10.0,RESULTADOS DE LABORATORIO
+870,2022-02-25,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+871,2022-02-25,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+872,2022-02-26,4,10,16.0,FALTA DE OPERARIO
+873,2022-02-26,3,10,8.0,FALTA DE OPERARIO
+874,2022-02-26,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+875,2022-02-26,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+876,2022-02-27,4,10,8.0,FALTA DE OPERARIO
+877,2022-02-27,3,10,8.0,FALTA DE OPERARIO
+878,2022-02-27,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+879,2022-02-27,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+880,2022-02-28,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+881,2022-02-28,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+882,2022-03-01,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+883,2022-03-01,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+884,2022-03-02,3,17,16.0,FALTADE ADICTIVO Y/O TINTA
+885,2022-03-02,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+886,2022-03-02,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+887,2022-03-03,3,17,8.0,FALTADE ADICTIVO Y/O TINTA
+888,2022-03-03,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+889,2022-03-03,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+890,2022-03-04,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+891,2022-03-04,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+892,2022-03-05,4,10,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+893,2022-03-05,3,10,9.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+894,2022-03-05,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+895,2022-03-05,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+896,2022-03-06,4,10,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+897,2022-03-06,3,10,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+898,2022-03-06,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+899,2022-03-06,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+900,2022-03-07,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+901,2022-03-07,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+902,2022-03-08,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+903,2022-03-08,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+904,2022-03-09,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+905,2022-03-09,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+906,2022-03-10,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+907,2022-03-10,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+908,2022-03-11,3,12,16.0,FALTA DE ENVASE Y/O TAPA
+909,2022-03-11,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+910,2022-03-11,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+911,2022-03-12,3,12,24.0,FALTA DE ENVASE Y/O TAPA
+912,2022-03-12,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+913,2022-03-12,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+914,2022-03-12,4,17,8.0,FALTA DE DISPLAY
+915,2022-03-13,3,12,16.0,FALTA DE ENVASE Y/O TAPA
+916,2022-03-13,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+917,2022-03-13,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+918,2022-03-13,4,17,24.0,FALTA DE DISPLAY
+919,2022-03-14,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+920,2022-03-14,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+921,2022-03-14,4,17,24.0,FALTA DE DISPLAY
+922,2022-03-15,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+923,2022-03-15,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+924,2022-03-15,4,17,24.0,FALTA DE DISPLAY
+925,2022-03-16,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+926,2022-03-16,1,12,24.0,FALTA DE ENVASE Y/O TAPA
+927,2022-03-16,4,17,24.0,FALTA DE DISPLAY
+928,2022-03-17,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+929,2022-03-17,1,10,24.0,FALTA DE ENVASE Y/O TAPA
+930,2022-03-17,3,10,8.0,NO SE PROGRAMO POR DEMANDA
+931,2022-03-17,4,17,24.0,FALTA DE DISPLAY
+932,2022-03-18,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+933,2022-03-18,1,10,24.0,FALTA DE ENVASE Y/O TAPA
+934,2022-03-18,3,10,24.0,NO SE PROGRAMO POR DEMANDA
+935,2022-03-18,4,17,24.0,FALTA DE DISPLAY
+936,2022-03-19,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+937,2022-03-19,1,10,24.0,FALTA DE ENVASE Y/O TAPA
+938,2022-03-19,3,10,24.0,NO SE PROGRAMO POR DEMANDA
+939,2022-03-19,4,17,24.0,FALTA DE DISPLAY
+940,2022-03-20,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+941,2022-03-20,1,10,24.0,FALTA DE ENVASE Y/O TAPA
+942,2022-03-20,3,10,24.0,NO SE PROGRAMO POR DEMANDA
+943,2022-03-20,4,17,24.0,FALTA DE DISPLAY
+944,2022-03-21,2,12,24.0,FALTA DE ENVASE Y/O TAPA
+945,2022-03-21,1,10,24.0,FALTA DE ENVASE Y/O TAPA
+946,2022-03-21,3,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+947,2022-03-21,4,17,24.0,FALTA DE DISPLAY
+948,2022-03-22,2,10,21.0,NO SE PROGRAMO POR DEMANDA
+949,2022-03-22,1,10,24.0,FALTA DE ENVASE Y/O TAPA
+950,2022-03-22,3,10,8.0,NO SE PROGRAMO POR DEMANDA
+951,2022-03-22,4,17,24.0,FALTA DE DISPLAY
+952,2022-03-23,2,10,16.0,NO SE PROGRAMO POR DEMANDA
+953,2022-03-23,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+954,2022-03-23,4,17,24.0,FALTA DE DISPLAY
+955,2022-03-24,2,10,16.0,NO SE PROGRAMO POR DEMANDA
+956,2022-03-24,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+957,2022-03-24,3,10,11.0,NO SE PROGRAMO POR DEMANDA
+958,2022-03-24,4,17,8.0,FALTA DE DISPLAY
+959,2022-03-25,2,10,16.0,NO SE PROGRAMO POR DEMANDA
+960,2022-03-25,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+961,2022-03-25,3,10,10.0,NO SE PROGRAMO POR DEMANDA
+962,2022-03-25,4,10,8.0,NO SE PROGRAMO POR DEMANDA
+963,2022-03-26,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+964,2022-03-26,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+965,2022-03-26,3,10,10.0,NO SE PROGRAMO POR DEMANDA
+966,2022-03-26,4,10,24.0,NO SE PROGRAMO POR DEMANDA
+967,2022-03-27,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+968,2022-03-27,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+969,2022-03-27,3,10,24.0,FALTA DE ENVASE Y/O TAPA
+970,2022-03-27,4,10,24.0,NO SE PROGRAMO POR DEMANDA
+971,2022-03-28,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+972,2022-03-28,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+973,2022-03-28,4,10,24.0,NO SE PROGRAMO POR DEMANDA
+974,2022-03-29,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+975,2022-03-29,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+976,2022-03-29,3,17,16.0,FALTA DE DISPLAY
+977,2022-03-29,4,10,24.0,NO SE PROGRAMO POR DEMANDA
+978,2022-03-30,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+979,2022-03-30,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+980,2022-03-30,3,17,24.0,FALTA DE DISPLAY
+981,2022-03-30,4,10,24.0,NO SE PROGRAMO POR DEMANDA
+982,2022-03-31,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+983,2022-03-31,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+984,2022-03-31,3,17,24.0,FALTA DE DISPLAY
+985,2022-03-31,4,10,8.0,NO SE PROGRAMO POR DEMANDA
+986,2022-04-01,2,10,16.0,NO SE PROGRAMO POR DEMANDA
+987,2022-04-01,1,17,24.0,FALTADE ADICTIVO Y/O TINTA
+988,2022-04-01,3,10,24.0,NO SE PROGRAMO POR DEMANDA
+989,2022-04-01,4,10,8.0,NO SE PROGRAMO POR DEMANDA
+990,2022-04-02,2,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+991,2022-04-02,1,17,24.0,FALTADE ADICTIVO Y/O TINTA
+992,2022-04-02,3,10,24.0,NO SE PROGRAMO POR DEMANDA
+993,2022-04-02,4,10,8.0,NO SE PROGRAMO POR DEMANDA
+994,2022-04-03,2,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+995,2022-04-03,1,17,24.0,FALTADE ADICTIVO Y/O TINTA
+996,2022-04-03,3,10,24.0,NO SE PROGRAMO POR DEMANDA
+997,2022-04-03,4,10,16.0,SE CAMBIO DE REFERENCIA
+998,2022-04-04,2,10,16.0,NO SE PROGRAMO POR DEMANDA
+999,2022-04-04,1,17,24.0,FALTADE ADICTIVO Y/O TINTA
+1000,2022-04-04,3,10,24.0,NO SE PROGRAMO POR DEMANDA
+1001,2022-04-05,2,17,24.0,FALTADE ADICTIVO Y/O TINTA
+1002,2022-04-05,1,17,24.0,FALTADE ADICTIVO Y/O TINTA
+1003,2022-04-06,2,17,24.0,FALTADE ADICTIVO Y/O TINTA
+1004,2022-04-06,1,17,24.0,FALTADE ADICTIVO Y/O TINTA
+1005,2022-04-07,2,17,24.0,FALTADE ADICTIVO Y/O TINTA
+1006,2022-04-07,1,17,24.0,FALTADE ADICTIVO Y/O TINTA
+1007,2022-04-08,2,17,24.0,FALTADE ADICTIVO Y/O TINTA
+1008,2022-04-08,1,17,24.0,FALTADE ADICTIVO Y/O TINTA
+1009,2022-04-09,2,17,24.0,FALTADE ADICTIVO Y/O TINTA
+1010,2022-04-09,1,17,24.0,FALTADE ADICTIVO Y/O TINTA
+1011,2022-04-09,4,10,16.0,SEMANA DE RESESO
+1012,2022-04-10,2,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1013,2022-04-10,1,17,24.0,FALTADE ADICTIVO Y/O TINTA
+1014,2022-04-10,3,10,24.0,SEMANA DE RESESO
+1015,2022-04-10,4,10,24.0,SEMANA DE RESESO
+1016,2022-04-11,2,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1017,2022-04-11,1,10,24.0,SEMANA DE RESESO
+1018,2022-04-11,3,10,24.0,SEMANA DE RESESO
+1019,2022-04-11,4,10,24.0,SEMANA DE RESESO
+1020,2022-04-12,2,10,24.0,SEMANA DE RESESO
+1021,2022-04-12,1,10,24.0,SEMANA DE RESESO
+1022,2022-04-12,3,10,24.0,SEMANA DE RESESO
+1023,2022-04-12,4,10,24.0,SEMANA DE RESESO
+1024,2022-04-13,2,10,24.0,SEMANA DE RESESO
+1025,2022-04-13,1,10,24.0,SEMANA DE RESESO
+1026,2022-04-13,3,10,24.0,SEMANA DE RESESO
+1027,2022-04-13,4,10,24.0,SEMANA DE RESESO
+1028,2022-04-14,2,10,24.0,SEMANA DE RESESO
+1029,2022-04-14,1,10,24.0,SEMANA DE RESESO
+1030,2022-04-14,3,10,24.0,SEMANA DE RESESO
+1031,2022-04-14,4,10,24.0,SEMANA DE RESESO
+1032,2022-04-15,2,10,24.0,SEMANA DE RESESO
+1033,2022-04-15,1,10,24.0,SEMANA DE RESESO
+1034,2022-04-15,3,10,24.0,SEMANA DE RESESO
+1035,2022-04-15,4,10,24.0,SEMANA DE RESESO
+1036,2022-04-16,2,10,24.0,SEMANA DE RESESO
+1037,2022-04-16,1,17,24.0,FALTADE ADICTIVO Y/O TINTA
+1038,2022-04-16,3,10,24.0,SEMANA DE RESESO
+1039,2022-04-16,4,10,24.0,SEMANA DE RESESO
+1040,2022-04-17,2,10,24.0,SEMANA DE RESESO
+1041,2022-04-17,1,17,24.0,FALTADE ADICTIVO Y/O TINTA
+1042,2022-04-17,3,10,16.0,SEMANA DE RESESO
+1043,2022-04-17,4,10,24.0,SEMANA DE RESESO
+1044,2022-04-18,2,17,24.0,FALTADE ADICTIVO Y/O TINTA
+1045,2022-04-18,1,17,24.0,FALTADE ADICTIVO Y/O TINTA
+1046,2022-04-18,4,11,16.0,FALTADE ADICTIVO Y/O TINTA
+1047,2022-04-19,2,17,8.0,FALTADE ADICTIVO Y/O TINTA
+1048,2022-04-19,3,17,16.0,FALTADE ADICTIVO Y/O TINTA
+1049,2022-04-19,4,11,24.0,FALTADE ADICTIVO Y/O TINTA
+1050,2022-04-20,2,10,16.0,NO SE PROGRAMO POR DEMANDA
+1051,2022-04-20,1,12,8.0,FALTA DE ENVASE Y/O TAPA
+1052,2022-04-21,2,10,16.0,NO SE PROGRAMO POR DEMANDA
+1053,2022-04-21,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1054,2022-04-22,2,10,16.0,NO SE PROGRAMO POR DEMANDA
+1055,2022-04-22,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1056,2022-04-23,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1057,2022-04-23,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1058,2022-04-23,3,10,8.0,NO SE PROGRAMO POR DEMANDA
+1059,2022-04-24,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1060,2022-04-24,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1061,2022-04-25,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1062,2022-04-25,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1063,2022-04-26,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1064,2022-04-26,1,10,8.0,NO SE PROGRAMO POR DEMANDA
+1065,2022-04-26,4,12,8.0,FALTA DE ENVASE Y/O TAPA
+1066,2022-04-27,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1067,2022-04-27,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1068,2022-04-27,4,12,24.0,FALTA DE ENVASE Y/O TAPA
+1069,2022-04-28,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1070,2022-04-28,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1071,2022-04-28,4,12,24.0,FALTA DE ENVASE Y/O TAPA
+1072,2022-04-29,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1073,2022-04-29,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1074,2022-04-29,4,12,24.0,FALTA DE ENVASE Y/O TAPA
+1075,2022-04-30,2,10,16.0,NO SE PROGRAMO POR DEMANDA
+1076,2022-04-30,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1077,2022-04-30,3,10,24.0,NO SE PROGRAMO POR DEMANDA
+1078,2022-04-30,4,12,24.0,FALTA DE ENVASE Y/O TAPA
+1079,2022-05-01,2,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1080,2022-05-01,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1081,2022-05-01,3,10,16.0,NO SE PROGRAMO POR DEMANDA
+1082,2022-05-01,4,12,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1083,2022-05-02,2,10,16.0,NO SE PROGRAMO POR DEMANDA
+1084,2022-05-02,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1085,2022-05-02,3,12,13.0,FALTA DE ENVASE Y/O TAPA
+1086,2022-05-02,4,12,16.0,FALTA DE ENVASE Y/O TAPA
+1087,2022-05-03,2,10,8.0,NO SE PROGRAMO POR DEMANDA
+1088,2022-05-03,1,10,8.0,NO SE PROGRAMO POR DEMANDA
+1089,2022-05-03,3,12,8.0,FALTA DE ENVASE Y/O TAPA
+1090,2022-05-03,4,12,16.0,FALTA DE ENVASE Y/O TAPA
+1091,2022-05-04,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1092,2022-05-04,1,10,16.0,NO SE PROGRAMO POR DEMANDA
+1093,2022-05-04,4,12,8.0,FALTA DE ENVASE Y/O TAPA
+1094,2022-05-05,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1095,2022-05-05,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1096,2022-05-05,3,12,8.0,FALTA DE ENVASE Y/O TAPA
+1097,2022-05-06,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1098,2022-05-06,3,12,24.0,FALTA DE ENVASE Y/O TAPA
+1099,2022-05-07,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1100,2022-05-07,1,10,8.0,NO SE PROGRAMO POR DEMANDA
+1101,2022-05-07,3,12,24.0,FALTA DE ENVASE Y/O TAPA
+1102,2022-05-07,4,10,8.0,NO SE PROGRAMO POR DEMANDA
+1103,2022-05-08,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1104,2022-05-08,3,12,24.0,FALTA DE ENVASE Y/O TAPA
+1105,2022-05-08,2,10,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1106,2022-05-08,4,10,24.0,NO SE PROGRAMO POR DEMANDA
+1107,2022-05-09,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1108,2022-05-09,1,10,16.0,NO SE PROGRAMO POR DEMANDA
+1109,2022-05-09,3,12,24.0,FALTA DE ENVASE Y/O TAPA
+1110,2022-05-10,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1111,2022-05-10,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1112,2022-05-10,3,12,24.0,FALTA DE ENVASE Y/O TAPA
+1113,2022-05-11,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1114,2022-05-11,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1115,2022-05-11,3,12,24.0,FALTA DE ENVASE Y/O TAPA
+1116,2022-05-12,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1117,2022-05-12,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1118,2022-05-12,3,12,24.0,FALTA DE ENVASE Y/O TAPA
+1119,2022-05-13,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1120,2022-05-13,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1121,2022-05-13,3,12,24.0,FALTA DE ENVASE Y/O TAPA
+1122,2022-05-13,4,10,8.0,NO SE PROGRAMO POR DEMANDA
+1123,2022-05-14,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1124,2022-05-14,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1125,2022-05-14,3,12,24.0,FALTA DE ENVASE Y/O TAPA
+1126,2022-05-14,4,10,8.0,NO SE PROGRAMO POR DEMANDA
+1127,2022-05-15,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1128,2022-05-15,1,10,8.0,NO SE PROGRAMO POR DEMANDA
+1129,2022-05-15,3,12,24.0,FALTA DE ENVASE Y/O TAPA
+1130,2022-05-16,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1131,2022-05-16,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1132,2022-05-17,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1133,2022-05-17,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1134,2022-05-18,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1135,2022-05-18,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1136,2022-05-19,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1137,2022-05-19,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1138,2022-05-20,2,10,24.0,NO SE PROGRAMO POR DEMANDA
+1139,2022-05-20,1,10,24.0,NO SE PROGRAMO POR DEMANDA
+1140,2022-05-20,3,17,24.0,ARREGLO EN LA SUBESTACION EMERGETICA Y DISPLAY
+1141,2022-05-20,4,10,32.0,DOSIFICACION A 6 COLORES
+1142,2022-07-01,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1143,2022-07-02,1,18,14.0,NO SE PROGRAMO POR DEMANDA
+1144,2022-07-03,1,18,19.0,SE CAMBIO DE REFERENCIA
+1145,2022-07-04,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1146,2022-07-04,2,18,8.0,SE CAMBIO DE REFERENCIA
+1147,2022-09-27,3,18,12.0,NO SE PROGRAMO POR DEMANDA
+1148,2022-10-01,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1149,2022-10-01,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1150,2022-10-01,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1151,2022-10-01,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1152,2022-10-02,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1153,2022-10-02,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1154,2022-10-03,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1155,2022-10-03,3,18,22.0,RESULTADOS DE LABORATORIO
+1156,2022-10-04,1,18,8.0,NO SE PROGRAMO POR DEMANDA
+1157,2022-10-04,3,18,24.0,RESULTADOS DE LABORATORIO
+1158,2022-10-05,4,18,23.0,FALTA DE PINTURAS
+1159,2022-10-05,3,18,24.0,RESULTADOS DE LABORATORIO
+1160,2022-10-06,1,18,24.0,FALTA DE DISPLAY
+1161,2022-10-06,4,18,24.0,FALTA DE PINTURAS
+1162,2022-10-06,3,18,22.0,FALTA DE PINTURAS
+1163,2022-10-07,1,18,24.0,FALTA DE DISPLAY
+1164,2022-10-07,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1165,2022-10-08,1,18,8.0,SE CAMBIO DE REFERENCIA
+1166,2022-10-08,1,12,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1167,2022-10-08,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1168,2022-10-08,2,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1169,2022-10-08,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1170,2022-10-09,1,12,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1171,2022-10-09,4,18,16.0,NO SE PROGRAMO POR DEMANDA
+1172,2022-10-09,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1173,2022-10-09,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1174,2022-10-10,4,18,15.0,NO SE PROGRAMO POR DEMANDA
+1175,2022-10-11,1,18,3.0,SE CAMBIO DE REFERENCIA
+1176,2022-10-11,1,18,18.0,NO SE PROGRAMO POR DEMANDA
+1177,2022-10-11,3,18,4.0,FALTA DE DISPLAY
+1178,2022-10-12,2,18,19.0,NO SE PROGRAMO POR DEMANDA
+1179,2022-10-12,1,18,18.0,NO SE PROGRAMO POR DEMANDA
+1180,2022-10-12,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1181,2022-10-12,3,18,6.0,NO SE PROGRAMO POR DEMANDA
+1182,2022-10-13,2,18,12.0,NO SE PROGRAMO POR DEMANDA
+1183,2022-10-13,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1184,2022-10-13,3,18,3.0,FALTA DE DISPLAY
+1185,2022-10-14,2,18,12.0,NO SE PROGRAMO POR DEMANDA
+1186,2022-10-15,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1187,2022-10-15,2,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1188,2022-10-15,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1189,2022-10-15,3,18,16.0,NO SE PROGRAMO POR DEMANDA
+1190,2022-10-16,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1191,2022-10-16,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1192,2022-10-16,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1193,2022-10-16,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1194,2022-10-17,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1195,2022-10-17,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1196,2022-10-17,4,18,16.0,NO SE PROGRAMO POR DEMANDA
+1197,2022-10-17,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1198,2022-10-18,2,18,14.0,NO SE PROGRAMO POR DEMANDA
+1199,2022-10-18,1,18,14.0,NO SE PROGRAMO POR DEMANDA
+1200,2022-10-19,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1201,2022-10-19,4,18,7.0,FALTA DE PINTURAS
+1202,2022-10-19,4,18,16.0,NO SE PROGRAMO POR DEMANDA
+1203,2022-10-19,1,18,24.0,FALTA DE PINTURAS
+1204,2022-10-20,1,18,24.0,SE CAMBIO DE REFERENCIA
+1205,2022-10-20,4,18,24.0,FALTA DE PINTURAS
+1206,2022-10-20,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1207,2022-10-21,1,18,24.0,SE CAMBIO DE REFERENCIA
+1208,2022-10-21,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1209,2022-10-22,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1210,2022-10-22,2,18,16.0,MATERIA PRIMA
+1211,2022-10-23,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1212,2022-10-23,2,18,24.0,MATERIA PRIMA
+1213,2022-10-24,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1214,2022-10-24,4,18,16.0,FALTA DE ENVASE Y/O TAPA
+1215,2022-10-24,2,18,8.0,FALTA DE ENVASE Y/O TAPA
+1216,2022-10-24,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1217,2022-10-25,1,18,8.0,NO SE PROGRAMO POR DEMANDA
+1218,2022-10-25,3,18,8.0,NO SE PROGRAMO POR DEMANDA
+1219,2022-10-25,2,18,16.0,FALTA DE ENVASE Y/O TAPA
+1220,2022-10-25,4,18,16.0,FALTA DE ENVASE Y/O TAPA
+1221,2022-10-26,2,18,16.0,FALTA DE ENVASE Y/O TAPA
+1222,2022-10-26,4,18,16.0,FALTA DE ENVASE Y/O TAPA
+1223,2022-10-26,1,18,8.0,NO SE PROGRAMO POR DEMANDA
+1224,2022-10-27,1,18,8.0,NO SE PROGRAMO POR DEMANDA
+1225,2022-10-27,2,18,16.0,FALTA DE ENVASE Y/O TAPA
+1226,2022-10-28,1,18,8.0,NO SE PROGRAMO POR DEMANDA
+1227,2022-10-28,2,18,16.0,FALTA DE ENVASE Y/O TAPA
+1228,2022-10-29,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1229,2022-10-29,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1230,2022-10-29,3,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1231,2022-10-29,4,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1232,2022-10-30,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1233,2022-10-30,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1234,2022-10-30,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1235,2022-10-30,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1236,2022-10-31,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1237,2022-10-31,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1238,2022-11-01,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1239,2022-11-01,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1240,2022-11-01,3,18,8.0,NO SE PROGRAMO POR DEMANDA
+1241,2022-11-02,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1242,2022-11-02,2,18,16.0,FALTA DE PINTURAS
+1243,2022-11-02,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1244,2022-11-03,4,18,8.0,NO SE PROGRAMO POR DEMANDA
+1245,2022-11-03,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1246,2022-11-03,3,18,8.0,NO SE PROGRAMO POR DEMANDA
+1247,2022-11-03,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1248,2022-11-04,1,18,8.0,NO SE PROGRAMO POR DEMANDA
+1249,2022-11-04,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1250,2022-11-04,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+1251,2022-11-05,1,18,8.0,NO SE PROGRAMO POR DEMANDA
+1252,2022-11-05,4,18,8.0,NO SE PROGRAMO POR DEMANDA
+1253,2022-11-05,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1254,2022-11-05,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1255,2022-11-06,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1256,2022-11-06,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1257,2022-11-07,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1258,2022-11-07,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1259,2022-11-07,1,18,8.0,NO SE PROGRAMO POR DEMANDA
+1260,2022-11-08,3,18,8.0,NO SE PROGRAMO POR DEMANDA
+1261,2022-11-08,4,18,16.0,NO SE PROGRAMO POR DEMANDA
+1262,2022-11-08,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1263,2022-11-09,1,18,16.0,FALTA DE OPERARIO
+1264,2022-11-09,4,18,8.0,NO SE PROGRAMO POR DEMANDA
+1265,2022-11-09,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1266,2022-11-10,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1267,2022-11-10,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1268,2022-11-11,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1269,2022-11-11,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1270,2022-11-11,4,18,16.0,NO SE PROGRAMO POR DEMANDA
+1271,2022-11-12,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1272,2022-11-12,2,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1273,2022-11-12,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1274,2022-11-12,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1275,2022-11-13,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1276,2022-11-13,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1277,2022-11-13,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1278,2022-11-13,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1279,2022-11-14,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1280,2022-11-14,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1281,2022-11-14,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1282,2022-11-14,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1283,2022-11-15,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1284,2022-11-15,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1285,2022-11-16,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1286,2022-11-16,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1287,2022-11-17,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1288,2022-11-17,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1289,2022-11-18,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1290,2022-11-18,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1291,2022-11-18,3,18,12.0,NO SE PROGRAMO POR DEMANDA
+1292,2022-11-19,2,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1293,2022-11-19,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1294,2022-11-19,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1295,2022-11-19,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1296,2022-11-20,2,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1297,2022-11-20,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1298,2022-11-20,4,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1299,2022-11-20,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1300,2022-11-21,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1301,2022-11-21,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1302,2022-11-22,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1303,2022-11-22,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1304,2022-11-23,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1305,2022-11-23,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1306,2022-11-24,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1307,2022-11-24,4,18,24.0,RESULTADOS DE LABORATORIO
+1308,2022-11-25,2,18,12.0,NO SE PROGRAMO POR DEMANDA
+1309,2022-11-26,1,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1310,2022-11-26,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1311,2022-11-26,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1312,2022-11-27,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1313,2022-11-27,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1314,2022-11-27,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1315,2022-11-27,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1316,2022-11-28,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1317,2022-11-28,4,18,8.0,FALTA DE PINTURAS
+1318,2022-11-28,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1319,2022-11-28,4,18,8.0,NO SE PROGRAMO POR DEMANDA
+1320,2022-11-28,3,18,16.0,NO SE PROGRAMO POR DEMANDA
+1321,2022-11-29,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1322,2022-11-29,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+1323,2022-11-30,1,18,8.0,NO SE PROGRAMO POR DEMANDA
+1324,2022-11-30,4,18,8.0,NO SE PROGRAMO POR DEMANDA
+1325,2022-11-30,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1326,2022-12-01,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1327,2022-12-02,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1328,2022-12-02,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1329,2022-12-03,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1330,2022-12-03,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1331,2022-12-04,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1332,2022-12-04,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1333,2022-12-05,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1334,2022-12-05,4,18,16.0,FALTA DE OPERARIO
+1335,2022-12-05,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1336,2022-12-06,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+1337,2022-12-06,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1338,2022-12-06,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1339,2022-12-07,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1340,2022-12-07,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1341,2022-12-07,4,18,16.0,NO SE PROGRAMO POR DEMANDA
+1342,2022-12-07,3,18,16.0,NO SE PROGRAMO POR DEMANDA
+1343,2022-12-08,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1344,2022-12-08,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1345,2022-12-08,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1346,2022-12-08,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1347,2022-12-09,3,18,16.0,NO SE PROGRAMO POR DEMANDA
+1348,2022-12-09,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1349,2022-12-09,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1350,2022-12-10,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1351,2022-12-10,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1352,2022-12-11,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1353,2022-12-11,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1354,2022-12-12,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1355,2022-12-12,2,18,8.0,NO SE PROGRAMO POR DEMANDA
+1356,2022-12-12,4,18,8.0,FALTA DE ENVASE Y/O TAPA
+1357,2022-12-12,4,18,8.0,RESULTADOS DE LABORATORIO
+1358,2022-12-13,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1359,2022-12-13,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1360,2022-12-14,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1361,2022-12-14,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1362,2022-12-15,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1363,2022-12-15,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1364,2022-12-16,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1365,2022-12-17,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1366,2022-12-17,3,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1367,2022-12-17,4,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1368,2022-12-18,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1369,2022-12-18,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1370,2022-12-18,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1371,2022-12-19,2,18,12.0,NO SE PROGRAMO POR DEMANDA
+1372,2022-12-19,1,18,14.0,NO SE PROGRAMO POR DEMANDA
+1373,2022-12-19,3,18,16.0,NO SE PROGRAMO POR DEMANDA
+1374,2022-12-19,4,18,16.0,FALTA DE PINTURAS
+1375,2022-12-20,1,18,14.0,NO SE PROGRAMO POR DEMANDA
+1376,2022-12-20,2,18,12.0,NO SE PROGRAMO POR DEMANDA
+1377,2022-12-20,4,18,24.0,FALTA DE OPERARIO
+1378,2022-12-21,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1379,2022-12-21,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1380,2022-12-21,4,18,8.0,NO SE PROGRAMO POR DEMANDA
+1381,2022-12-22,4,18,8.0,NO SE PROGRAMO POR DEMANDA
+1382,2022-12-22,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1383,2022-12-31,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1384,2022-12-31,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1385,2022-12-31,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1386,2022-12-31,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1387,2023-01-01,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1388,2023-01-01,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1389,2023-01-01,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1390,2023-01-01,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1391,2023-01-02,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1392,2023-01-02,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1393,2023-01-02,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1394,2023-01-02,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1395,2023-01-03,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1396,2023-01-03,3,18,8.0,NO SE PROGRAMO POR DEMANDA
+1397,2023-01-03,3,18,24.0,FALTA DE ENVASE Y/O TAPA
+1398,2023-01-03,4,18,8.0,FALTA DE ENVASE Y/O TAPA
+1399,2023-01-04,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1400,2023-01-04,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+1401,2023-01-04,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1402,2023-01-04,4,18,24.0,FALTA DE ENVASE Y/O TAPA
+1403,2023-01-05,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1404,2023-01-05,2,18,8.0,NO SE PROGRAMO POR DEMANDA
+1405,2023-01-05,4,18,8.0,NO SE PROGRAMO POR DEMANDA
+1406,2023-01-06,1,18,8.0,NO SE PROGRAMO POR DEMANDA
+1407,2023-01-06,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1408,2023-01-07,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1409,2023-01-07,3,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1410,2023-01-07,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1411,2023-01-07,4,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1412,2023-01-08,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1413,2023-01-08,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1414,2023-01-08,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1415,2023-01-08,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1416,2023-01-09,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1417,2023-01-09,2,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1418,2023-01-09,4,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1419,2023-01-09,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1420,2023-01-10,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1421,2023-01-10,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1422,2023-01-11,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1423,2023-01-11,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1424,2023-01-11,3,18,8.0,NO SE PROGRAMO POR DEMANDA
+1425,2023-01-11,4,18,16.0,NO SE PROGRAMO POR DEMANDA
+1426,2023-01-12,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1427,2023-01-12,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1428,2023-01-13,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1429,2023-01-13,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1430,2023-01-13,3,18,16.0,FALTA DE ENVASE Y/O TAPA
+1431,2023-01-14,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1432,2023-01-14,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1433,2023-01-14,3,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1434,2023-01-14,4,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1435,2023-01-15,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1436,2023-01-15,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1437,2023-01-15,3,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1438,2023-01-16,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1439,2023-01-16,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1440,2023-01-17,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1441,2023-01-17,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1442,2023-01-17,3,18,8.0,FALTA DE ENVASE Y/O TAPA
+1443,2023-01-18,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1444,2023-01-18,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1445,2023-01-19,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1446,2023-01-19,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1447,2023-01-20,3,18,16.0,NO SE PROGRAMO POR DEMANDA
+1448,2023-01-20,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1449,2023-01-20,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1450,2023-01-21,2,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1451,2023-01-21,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1452,2023-01-22,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1453,2023-01-22,2,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1454,2023-01-23,3,18,16.0,NO SE PROGRAMO POR DEMANDA
+1455,2023-01-23,1,18,16.0,FALTA DE ENVASE Y/O TAPA
+1456,2023-01-23,2,18,24.0,FALTA DE OPERARIO
+1457,2023-01-23,4,18,16.0,RESULTADOS DE LABORATORIO
+1458,2023-01-24,3,18,24.0,FALTA DE ENVASE Y/O TAPA
+1459,2023-01-24,1,18,24.0,SE CAMBIO DE REFERENCIA
+1460,2023-01-24,2,18,24.0,FALTA DE OPERARIO
+1461,2023-01-24,4,18,24.0,SE CAMBIO DE REFERENCIA
+1462,2023-01-25,1,18,24.0,SE CAMBIO DE REFERENCIA
+1463,2023-01-25,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1464,2023-01-25,4,18,24.0,SE CAMBIO DE REFERENCIA
+1465,2023-01-25,3,18,24.0,FALTA DE ENVASE Y/O TAPA
+1466,2023-01-26,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1467,2023-01-26,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1468,2023-01-26,4,18,24.0,SE CAMBIO DE REFERENCIA
+1469,2023-01-26,3,18,24.0,FALTA DE ENVASE Y/O TAPA
+1470,2023-01-27,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1471,2023-01-27,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1472,2023-01-27,3,18,8.0,NO SE PROGRAMO POR DEMANDA
+1473,2023-01-27,4,18,24.0,SE CAMBIO DE REFERENCIA
+1474,2023-01-28,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1475,2023-01-28,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1476,2023-01-28,3,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1477,2023-01-28,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1478,2023-01-29,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1479,2023-01-29,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1480,2023-01-29,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1481,2023-01-29,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1482,2023-01-30,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1483,2023-01-30,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1484,2023-01-31,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1485,2023-01-31,4,18,8.0,NO SE PROGRAMO POR DEMANDA
+1486,2023-02-01,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1487,2023-02-01,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1488,2023-02-02,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1489,2023-02-02,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1490,2023-02-02,3,18,8.0,NO SE PROGRAMO POR DEMANDA
+1491,2023-02-03,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1492,2023-02-03,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1493,2023-02-03,4,18,8.0,NO SE PROGRAMO POR DEMANDA
+1494,2023-02-04,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1495,2023-02-04,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1496,2023-02-04,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1497,2023-02-05,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1498,2023-02-05,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1499,2023-02-05,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1500,2023-02-05,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1501,2023-02-06,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1502,2023-02-06,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1503,2023-02-07,4,18,16.0,NO SE PROGRAMO POR DEMANDA
+1504,2023-02-07,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1505,2023-02-07,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1506,2023-02-08,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1507,2023-02-08,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1508,2023-02-09,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1509,2023-02-09,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1510,2023-02-09,4,18,16.0,FALTA DE PINTURAS
+1511,2023-02-10,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1512,2023-02-10,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1513,2023-02-11,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1514,2023-02-11,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1515,2023-02-12,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1516,2023-02-12,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1517,2023-02-12,4,18,8.0,SE CAMBIO DE REFERENCIA
+1518,2023-02-13,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1519,2023-02-13,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1520,2023-02-14,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1521,2023-02-14,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1522,2023-02-15,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1523,2023-02-15,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1524,2023-02-16,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1525,2023-02-16,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1526,2023-02-17,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1527,2023-02-17,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1528,2023-02-18,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1529,2023-02-18,2,18,24.0,NO SE PROGRAMOS EL FIN DE SEMANA POR DEMANDA
+1530,2023-02-18,4,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1531,2023-02-18,3,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1532,2023-02-19,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1533,2023-02-19,2,18,24.0,NO SE PROGRAMOS EL FIN DE SEMANA POR DEMANDA
+1534,2023-02-19,4,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1535,2023-02-19,3,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1536,2023-02-20,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1537,2023-02-20,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1538,2023-02-21,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1539,2023-02-21,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1540,2023-02-22,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1541,2023-02-22,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1542,2023-02-23,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1543,2023-02-23,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1544,2023-02-24,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1545,2023-02-24,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1546,2023-02-25,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1547,2023-02-25,2,18,24.0,NO SE PROGRAMOS EL FIN DE SEMANA POR DEMANDA
+1548,2023-02-25,3,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1549,2023-02-25,4,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1550,2023-02-26,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1551,2023-02-26,2,18,24.0,NO SE PROGRAMOS EL FIN DE SEMANA POR DEMANDA
+1552,2023-02-26,3,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1553,2023-02-27,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1554,2023-02-27,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1555,2023-02-28,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1556,2023-02-28,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1557,2023-02-28,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1558,2023-03-01,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1559,2023-03-01,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1560,2023-03-01,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1561,2023-03-02,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1562,2023-03-02,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1563,2023-03-02,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1564,2023-03-03,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1565,2023-03-03,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1566,2023-03-03,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1567,2023-03-03,4,18,8.0,NO SE PROGRAMO POR DEMANDA
+1568,2023-03-04,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1569,2023-03-04,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1570,2023-03-04,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1571,2023-03-04,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1572,2023-03-05,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1573,2023-03-05,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1574,2023-03-05,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1575,2023-03-05,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1576,2023-03-06,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1577,2023-03-06,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1578,2023-03-07,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1579,2023-03-07,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1580,2023-03-08,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1581,2023-03-08,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1582,2023-03-09,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1583,2023-03-09,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1584,2023-03-10,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1585,2023-03-10,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1586,2023-03-11,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1587,2023-03-11,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1588,2023-03-11,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1589,2023-03-11,4,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1590,2023-03-12,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1591,2023-03-12,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1592,2023-03-12,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1593,2023-03-12,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1594,2023-03-13,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1595,2023-03-13,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1596,2023-03-13,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1597,2023-03-14,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1598,2023-03-14,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1599,2023-03-14,1,18,24.0,MANTENIMIENTO PREVENTIVO
+1600,2023-03-15,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1601,2023-03-15,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1602,2023-03-16,1,18,8.0,NO SE PROGRAMO POR DEMANDA
+1603,2023-03-16,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1604,2023-03-16,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1605,2023-03-17,1,18,8.0,NO SE PROGRAMO POR DEMANDA
+1606,2023-03-17,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1607,2023-03-17,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1608,2023-03-18,4,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1609,2023-03-18,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1610,2023-03-18,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1611,2023-03-18,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1612,2023-03-19,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1613,2023-03-19,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1614,2023-03-19,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1615,2023-03-19,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1616,2023-03-20,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1617,2023-03-20,1,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1618,2023-03-20,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1619,2023-03-20,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1620,2023-03-21,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1621,2023-03-21,3,18,24.0,MANTENIMIENTO PREVENTIVO
+1622,2023-03-22,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1623,2023-03-22,3,18,16.0,MANTENIMIENTO PREVENTIVO
+1624,2023-03-23,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1625,2023-03-23,4,18,24.0,MANTENIMIENTO PREVENTIVO
+1626,2023-03-24,4,18,24.0,MANTENIMIENTO PREVENTIVO
+1627,2023-03-24,2,18,8.0,NO SE PROGRAMO POR DEMANDA
+1628,2023-03-25,4,18,24.0,MANTENIMIENTO PREVENTIVO
+1629,2023-03-25,3,18,16.0,FALTA DE DISPLAY
+1630,2023-03-25,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1631,2023-03-25,2,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1632,2023-03-26,4,18,24.0,MANTENIMIENTO PREVENTIVO
+1633,2023-03-26,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1634,2023-03-26,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1635,2023-03-26,2,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1636,2023-03-27,4,18,24.0,MANTENIMIENTO PREVENTIVO
+1637,2023-03-27,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1638,2023-03-27,3,18,24.0,FALTA DE DISPLAY
+1639,2023-03-28,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1640,2023-03-28,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+1641,2023-03-28,3,17,8.0,FALTA DE DISPLAY
+1642,2023-03-28,2,17,8.0,FALTA DE DISPLAY
+1643,2023-03-29,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1644,2023-03-29,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+1645,2023-03-29,3,17,24.0,FALTA DE DISPLAY
+1646,2023-03-29,2,17,8.0,FALTA DE DISPLAY
+1647,2023-03-30,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1648,2023-03-30,4,18,24.0,MANTENIMIENTO PREVENTIVO
+1649,2023-03-30,2,17,24.0,FALTA DE DISPLAY
+1650,2023-03-31,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1651,2023-03-31,4,18,24.0,MANTENIMIENTO PREVENTIVO
+1652,2023-03-31,2,17,24.0,FALTA DE DISPLAY
+1653,2023-04-01,3,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1654,2023-04-01,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1655,2023-04-01,4,18,24.0,MANTENIMIENTO PREVENTIVO
+1656,2023-04-01,2,17,24.0,FALTA DE DISPLAY
+1657,2023-04-02,3,18,24.0,SEMANA DE RESESO
+1658,2023-04-02,1,18,24.0,SEMANA DE RESESO
+1659,2023-04-02,4,18,24.0,SEMANA DE RESESO
+1660,2023-04-02,2,18,24.0,SEMANA DE RESESO
+1661,2023-04-03,3,18,24.0,SEMANA DE RESESO
+1662,2023-04-03,1,18,24.0,SEMANA DE RESESO
+1663,2023-04-03,4,18,24.0,SEMANA DE RESESO
+1664,2023-04-03,2,18,24.0,SEMANA DE RESESO
+1665,2023-04-04,3,18,24.0,SEMANA DE RESESO
+1666,2023-04-04,1,18,24.0,SEMANA DE RESESO
+1667,2023-04-04,4,18,24.0,SEMANA DE RESESO
+1668,2023-04-04,2,18,24.0,SEMANA DE RESESO
+1669,2023-04-05,3,18,24.0,SEMANA DE RESESO
+1670,2023-04-05,1,18,24.0,SEMANA DE RESESO
+1671,2023-04-05,4,18,24.0,SEMANA DE RESESO
+1672,2023-04-05,2,18,24.0,SEMANA DE RESESO
+1673,2023-04-06,3,18,24.0,SEMANA DE RESESO
+1674,2023-04-06,1,18,24.0,SEMANA DE RESESO
+1675,2023-04-06,4,18,24.0,SEMANA DE RESESO
+1676,2023-04-06,2,18,24.0,SEMANA DE RESESO
+1677,2023-04-07,3,18,24.0,SEMANA DE RESESO
+1678,2023-04-07,1,18,24.0,SEMANA DE RESESO
+1679,2023-04-07,4,18,24.0,SEMANA DE RESESO
+1680,2023-04-07,2,18,24.0,SEMANA DE RESESO
+1681,2023-04-08,3,18,24.0,SEMANA DE RESESO
+1682,2023-04-08,1,18,24.0,SEMANA DE RESESO
+1683,2023-04-08,4,18,24.0,SEMANA DE RESESO
+1684,2023-04-08,2,18,24.0,SEMANA DE RESESO
+1685,2023-04-09,3,18,16.0,SEMANA DE RESESO
+1686,2023-04-09,1,18,24.0,SEMANA DE RESESO
+1687,2023-04-09,4,18,24.0,SEMANA DE RESESO
+1688,2023-04-09,2,18,24.0,SEMANA DE RESESO
+1689,2023-04-10,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1690,2023-04-10,4,18,24.0,MATERIA PRIMA
+1691,2023-04-10,2,17,24.0,FALTA DE DISPLAY
+1692,2023-04-11,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1693,2023-04-11,4,18,24.0,MATERIA PRIMA
+1694,2023-04-11,2,17,24.0,FALTA DE DISPLAY
+1695,2023-04-12,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1696,2023-04-12,4,18,8.0,MATERIA PRIMA
+1697,2023-04-12,2,17,24.0,FALTA DE DISPLAY
+1698,2023-04-13,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1699,2023-04-13,2,17,24.0,FALTA DE DISPLAY
+1700,2023-04-14,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1701,2023-04-14,2,17,24.0,FALTA DE DISPLAY
+1702,2023-04-15,3,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1703,2023-04-15,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1704,2023-04-15,4,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1705,2023-04-15,2,17,24.0,FALTA DE DISPLAY
+1706,2023-04-16,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1707,2023-04-16,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1708,2023-04-16,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1709,2023-04-16,2,17,16.0,FALTA DE DISPLAY
+1710,2023-04-17,3,18,24.0,FALTA DE ENVASE Y/O TAPA
+1711,2023-04-17,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1712,2023-04-17,2,11,8.0,MATERIA PRIMA
+1713,2023-04-18,3,18,8.0,FALTA DE ENVASE Y/O TAPA
+1714,2023-04-18,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1715,2023-04-18,2,11,8.0,MATERIA PRIMA
+1716,2023-04-19,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1717,2023-04-19,2,11,16.0,MATERIA PRIMA
+1718,2023-04-20,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1719,2023-04-20,2,11,24.0,MATERIA PRIMA
+1720,2023-04-20,4,17,8.0,MATERIA PRIMA
+1721,2023-04-21,2,11,24.0,MATERIA PRIMA
+1722,2023-04-22,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1723,2023-04-22,3,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1724,2023-04-22,4,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1725,2023-04-22,1,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1726,2023-04-23,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1727,2023-04-23,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1728,2023-04-23,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1729,2023-04-23,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1730,2023-04-24,2,11,24.0,MATERIA PRIMA
+1731,2023-04-25,2,11,24.0,MATERIA PRIMA
+1732,2023-04-25,3,11,16.0,FALTA DE DISPLAY
+1733,2023-04-25,4,17,8.0,MATERIA PRIMA
+1734,2023-04-25,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1735,2023-04-26,2,11,24.0,MATERIA PRIMA
+1736,2023-04-26,3,11,16.0,FALTA DE DISPLAY
+1737,2023-04-26,4,13,16.0,RESULTADOS DE LABORATORIO
+1738,2023-04-26,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1739,2023-04-27,2,11,24.0,MATERIA PRIMA
+1740,2023-04-27,4,14,8.0,SE CAMBIO DE REFERENCIA
+1741,2023-04-27,1,18,8.0,NO SE PROGRAMO POR DEMANDA
+1742,2023-04-28,2,11,24.0,MATERIA PRIMA
+1743,2023-04-28,4,18,8.0,NO SE PROGRAMO POR DEMANDA
+1744,2023-04-29,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1745,2023-04-29,3,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1746,2023-04-29,4,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1747,2023-04-29,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1748,2023-04-30,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1749,2023-04-30,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1750,2023-04-30,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1751,2023-04-30,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1752,2023-05-01,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1753,2023-05-01,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1754,2023-05-01,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1755,2023-05-01,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1756,2023-05-02,2,17,24.0,MATERIA PRIMA
+1757,2023-05-02,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1758,2023-05-03,2,17,24.0,MATERIA PRIMA
+1759,2023-05-03,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1760,2023-05-04,2,18,24.0,MATERIA PRIMA
+1761,2023-05-04,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1762,2023-05-05,2,18,24.0,MATERIA PRIMA
+1763,2023-05-05,4,18,16.0,NO SE PROGRAMO POR DEMANDA
+1764,2023-05-05,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1765,2023-05-06,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1766,2023-05-06,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+1767,2023-05-06,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1768,2023-05-06,3,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1769,2023-05-07,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1770,2023-05-07,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+1771,2023-05-07,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1772,2023-05-07,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1773,2023-05-08,2,18,24.0,MATERIA PRIMA
+1774,2023-05-08,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+1775,2023-05-08,1,18,8.0,NO SE PROGRAMO POR DEMANDA
+1776,2023-05-09,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1777,2023-05-09,4,18,8.0,NO SE PROGRAMO POR DEMANDA
+1778,2023-05-10,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1779,2023-05-11,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1780,2023-05-12,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1781,2023-05-13,2,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1782,2023-05-13,1,18,8.0,NO SE PROGRAMO POR DEMANDA
+1783,2023-05-13,3,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1784,2023-05-13,4,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1785,2023-05-14,2,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1786,2023-05-14,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1787,2023-05-14,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1788,2023-05-14,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1789,2023-05-15,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1790,2023-05-15,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+1791,2023-05-15,4,18,8.0,NO SE PROGRAMO POR DEMANDA
+1792,2023-05-16,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1793,2023-05-16,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+1794,2023-05-16,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+1795,2023-05-16,1,13,8.0,RESULTADOS DE LABORATORIO
+1796,2023-05-17,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1797,2023-05-17,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+1798,2023-05-17,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+1799,2023-05-17,1,13,16.0,RESULTADOS DE LABORATORIO
+1800,2023-05-18,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1801,2023-05-18,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+1802,2023-05-18,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+1803,2023-05-18,1,13,24.0,RESULTADOS DE LABORATORIO
+1804,2023-05-19,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1805,2023-05-19,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+1806,2023-05-19,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+1807,2023-05-19,1,13,16.0,RESULTADOS DE LABORATORIO
+1808,2023-05-20,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1809,2023-05-20,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1810,2023-05-20,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1811,2023-05-21,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1812,2023-05-21,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1813,2023-05-21,4,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1814,2023-05-22,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1815,2023-05-22,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+1816,2023-05-22,4,18,8.0,NO SE PROGRAMO POR DEMANDA
+1817,2023-05-23,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1818,2023-05-23,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+1819,2023-05-23,4,18,16.0,NO SE PROGRAMO POR DEMANDA
+1820,2023-05-24,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1821,2023-05-24,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+1822,2023-05-24,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+1823,2023-05-25,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1824,2023-05-25,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+1825,2023-05-25,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+1826,2023-05-26,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1827,2023-05-26,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+1828,2023-05-26,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+1829,2023-05-27,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1830,2023-05-27,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1831,2023-05-27,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1832,2023-05-27,1,13,8.0,RESULTADOS DE LABORATORIO
+1833,2023-05-28,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1834,2023-05-28,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1835,2023-05-28,4,13,24.0,RESULTADOS DE LABORATORIO
+1836,2023-05-28,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1837,2023-05-29,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1838,2023-05-29,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+1839,2023-05-29,4,13,24.0,RESULTADOS DE LABORATORIO
+1840,2023-05-29,1,17,16.0,MATERIA PRIMA
+1841,2023-05-30,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1842,2023-05-30,4,13,24.0,RESULTADOS DE LABORATORIO
+1843,2023-05-30,1,17,24.0,MATERIA PRIMA
+1844,2023-05-31,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1845,2023-05-31,4,13,16.0,RESULTADOS DE LABORATORIO
+1846,2023-05-31,1,17,24.0,MATERIA PRIMA
+1847,2023-06-01,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1848,2023-06-01,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+1849,2023-06-01,4,19,24.0,DAÑO EN CANECA PRODUJO REGUERO MASIVO
+1850,2023-06-01,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1851,2023-06-02,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1852,2023-06-02,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+1853,2023-06-02,4,19,24.0,DAÑO EN CANECA PRODUJO REGUERO MASIVO
+1854,2023-06-02,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1855,2023-06-03,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1856,2023-06-03,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1857,2023-06-03,4,19,16.0,DAÑO EN CANECA PRODUJO REGUERO MASIVO
+1858,2023-06-03,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1859,2023-06-04,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1860,2023-06-04,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1861,2023-06-04,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1862,2023-06-04,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1863,2023-06-05,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1864,2023-06-05,3,18,8.0,NO SE PROGRAMO POR DEMANDA
+1865,2023-06-05,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1866,2023-06-06,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1867,2023-06-06,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1868,2023-06-06,3,17,8.0,FALTA DE ENVASE Y/O TAPA
+1869,2023-06-06,4,17,8.0,FALTA DE ENVASE Y/O TAPA
+1870,2023-06-07,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1871,2023-06-07,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1872,2023-06-07,3,17,8.0,FALTA DE DISPLAY
+1873,2023-06-07,4,17,24.0,FALTA DE ENVASE Y/O TAPA
+1874,2023-06-08,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1875,2023-06-08,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1876,2023-06-08,4,17,16.0,FALTA DE ENVASE Y/O TAPA
+1877,2023-06-09,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1878,2023-06-09,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1879,2023-06-10,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1880,2023-06-10,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1881,2023-06-10,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1882,2023-06-10,4,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1883,2023-06-11,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1884,2023-06-11,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1885,2023-06-11,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1886,2023-06-11,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1887,2023-06-12,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1888,2023-06-12,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1889,2023-06-12,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1890,2023-06-12,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1891,2023-06-13,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+1892,2023-06-13,2,18,8.0,NO SE PROGRAMO POR DEMANDA
+1893,2023-06-13,4,18,16.0,NO SE PROGRAMO POR DEMANDA
+1894,2023-06-14,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1895,2023-06-14,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1896,2023-06-14,4,13,24.0,RESULTADOS DE LABORATORIO
+1897,2023-06-15,2,18,8.0,NO SE PROGRAMO POR DEMANDA
+1898,2023-06-15,4,13,24.0,RESULTADOS DE LABORATORIO
+1899,2023-06-16,1,18,16.0,INVENTARIO
+1900,2023-06-16,2,18,24.0,INVENTARIO
+1901,2023-06-16,4,18,24.0,INVENTARIO
+1902,2023-06-16,3,18,16.0,INVENTARIO
+1903,2023-06-17,1,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1904,2023-06-17,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1905,2023-06-17,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1906,2023-06-17,3,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1907,2023-06-18,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1908,2023-06-18,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1909,2023-06-18,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1910,2023-06-18,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1911,2023-06-19,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1912,2023-06-19,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1913,2023-06-19,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+1914,2023-06-19,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1915,2023-06-20,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1916,2023-06-20,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+1917,2023-06-20,3,14,8.0,SE CAMBIO DE REFERENCIA
+1918,2023-06-21,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1919,2023-06-21,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+1920,2023-06-22,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1921,2023-06-22,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+1922,2023-06-23,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+1923,2023-06-23,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+1924,2023-06-24,1,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1925,2023-06-24,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1926,2023-06-24,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1927,2023-06-24,3,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1928,2023-06-25,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1929,2023-06-25,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1930,2023-06-25,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1931,2023-06-25,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1932,2023-06-26,1,11,8.0,FALTA DE DISPLAY
+1933,2023-06-26,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1934,2023-06-27,1,11,24.0,FALTA DE DISPLAY
+1935,2023-06-27,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1936,2023-06-28,1,11,24.0,FALTA DE DISPLAY
+1937,2023-06-28,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1938,2023-06-29,1,11,24.0,FALTA DE DISPLAY
+1939,2023-06-29,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1940,2023-06-30,1,11,24.0,FALTA DE DISPLAY
+1941,2023-06-30,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1942,2023-07-01,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1943,2023-07-01,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1944,2023-07-01,3,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1945,2023-07-01,4,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1946,2023-07-02,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1947,2023-07-02,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1948,2023-07-02,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1949,2023-07-02,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1950,2023-07-03,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1951,2023-07-03,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1952,2023-07-03,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1953,2023-07-03,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1954,2023-07-04,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1955,2023-07-05,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1956,2023-07-05,1,18,8.0,CAMBIO DE REFERENCIA
+1957,2023-07-06,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1958,2023-07-07,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1959,2023-07-07,4,18,8.0,NO SE PROGRAMO POR DEMANDA
+1960,2023-07-08,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1961,2023-07-08,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1962,2023-07-08,1,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1963,2023-07-08,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1964,2023-07-09,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1965,2023-07-09,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1966,2023-07-09,1,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1967,2023-07-09,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1968,2023-07-10,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1969,2023-07-10,1,18,16.0,CAMBIO DE REFERENCIA
+1970,2023-07-11,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1971,2023-07-12,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1972,2023-07-12,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+1973,2023-07-13,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1974,2023-07-13,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1975,2023-07-14,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+1976,2023-07-14,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+1977,2023-07-15,1,18,24.0,INVENTARIO
+1978,2023-07-15,2,18,24.0,INVENTARIO
+1979,2023-07-15,3,18,24.0,INVENTARIO
+1980,2023-07-15,4,18,24.0,INVENTARIO
+1981,2023-07-16,1,18,24.0,INVENTARIO
+1982,2023-07-16,2,18,24.0,INVENTARIO
+1983,2023-07-16,3,18,24.0,INVENTARIO
+1984,2023-07-16,4,18,24.0,INVENTARIO
+1985,2023-07-17,1,18,24.0,INVENTARIO
+1986,2023-07-17,2,18,24.0,INVENTARIO
+1987,2023-07-17,3,18,24.0,INVENTARIO
+1988,2023-07-17,4,18,24.0,INVENTARIO
+1989,2023-07-18,1,18,24.0,INVENTARIO
+1990,2023-07-18,2,18,24.0,INVENTARIO
+1991,2023-07-18,3,18,24.0,INVENTARIO
+1992,2023-07-18,4,18,24.0,INVENTARIO
+1993,2023-07-19,1,18,24.0,INVENTARIO
+1994,2023-07-19,2,18,24.0,INVENTARIO
+1995,2023-07-19,3,18,24.0,INVENTARIO
+1996,2023-07-19,4,18,24.0,INVENTARIO
+1997,2023-07-20,1,18,24.0,INVENTARIO
+1998,2023-07-20,2,18,24.0,INVENTARIO
+1999,2023-07-20,3,18,16.0,INVENTARIO
+2000,2023-07-20,4,18,24.0,INVENTARIO
+2001,2023-07-21,1,18,8.0,INVENTARIO
+2002,2023-07-21,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+2003,2023-07-21,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+2004,2023-07-22,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2005,2023-07-22,3,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2006,2023-07-22,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2007,2023-07-23,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2008,2023-07-23,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2009,2023-07-23,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2010,2023-07-24,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+2011,2023-07-24,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+2012,2023-07-25,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+2013,2023-07-25,3,18,8.0,CAMBIO DE REFERENCIA
+2014,2023-07-25,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+2015,2023-07-26,1,18,24.0,CAMBIO DE REFERENCIA
+2016,2023-07-26,2,18,14.0,NO SE PROGRAMO POR DEMANDA
+2017,2023-07-26,3,18,24.0,CAMBIO DE REFERENCIA
+2018,2023-07-26,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+2019,2023-07-27,1,18,16.0,CAMBIO DE REFERENCIA
+2020,2023-07-27,2,18,14.0,NO SE PROGRAMO POR DEMANDA
+2021,2023-07-27,3,18,8.0,CAMBIO DE REFERENCIA
+2022,2023-07-27,4,18,16.0,NO SE PROGRAMO POR DEMANDA
+2023,2023-07-28,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+2024,2023-07-28,3,18,24.0,CAMBIO DE REFERENCIA
+2025,2023-07-29,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2026,2023-07-29,3,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2027,2023-07-29,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2028,2023-07-30,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2029,2023-07-30,3,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2030,2023-07-30,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2031,2023-07-31,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+2032,2023-07-31,3,18,24.0,CAMBIO DE REFERENCIA
+2033,2023-08-01,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+2034,2023-08-01,3,18,24.0,CAMBIO DE REFERENCIA
+2035,2023-08-02,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+2036,2023-08-02,3,18,24.0,CAMBIO DE REFERENCIA
+2037,2023-08-03,3,18,24.0,CAMBIO DE REFERENCIA
+2038,2023-08-04,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2039,2023-08-05,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2040,2023-08-06,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2041,2023-08-07,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2042,2023-08-28,1,18,2.0,FALTA DE OPERARIO
+2043,2023-08-31,3,18,16.0,NO SE PROGRAMO POR DEMANDA
+2044,2023-09-01,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2045,2023-09-01,1,18,8.0,NO SE PROGRAMO POR DEMANDA
+2046,2023-09-02,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2047,2023-09-02,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+2048,2023-09-02,4,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2049,2023-09-03,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2050,2023-09-03,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+2051,2023-09-03,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2052,2023-09-04,4,18,8.0,NO SE PROGRAMO POR DEMANDA
+2053,2023-09-05,3,18,8.0,NO SE PROGRAMO POR DEMANDA
+2054,2023-09-05,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+2055,2023-09-06,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2056,2023-09-06,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+2057,2023-09-06,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+2058,2023-09-07,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2059,2023-09-07,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+2060,2023-09-07,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+2061,2023-09-07,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+2062,2023-09-08,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2063,2023-09-08,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+2064,2023-09-08,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+2065,2023-09-09,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2066,2023-09-09,4,18,16.0,NO SE PROGRAMO POR DEMANDA
+2067,2023-09-10,3,18,16.0,NO SE PROGRAMO POR DEMANDA
+2068,2023-09-10,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+2069,2023-09-11,1,18,8.0,NO SE PROGRAMO POR DEMANDA
+2070,2023-09-12,1,18,8.0,NO SE PROGRAMO POR DEMANDA
+2071,2023-09-12,1,18,8.0,NO SE PROGRAMO POR DEMANDA
+2072,2023-09-14,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+2073,2023-09-15,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+2074,2023-09-18,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2075,2023-09-19,2,18,8.0,NO SE PROGRAMO POR DEMANDA
+2076,2023-09-20,2,18,8.0,NO SE PROGRAMO POR DEMANDA
+2077,2023-09-20,3,18,8.0,NO SE PROGRAMO POR DEMANDA
+2078,2023-09-21,2,18,8.0,NO SE PROGRAMO POR DEMANDA
+2079,2023-09-21,3,18,8.0,SE CAMBIO DE REFERENCIA
+2080,2023-09-22,3,18,24.0,SE CAMBIO DE REFERENCIA
+2081,2023-09-22,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+2082,2023-09-23,3,18,16.0,FALTA DE OPERARIO
+2083,2023-09-23,4,18,8.0,NO SE PROGRAMO POR DEMANDA
+2084,2023-09-23,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+2085,2023-09-24,3,18,16.0,NO SE PROGRAMO POR DEMANDA
+2086,2023-09-24,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+2087,2023-09-26,1,18,16.0,NO SE PROGRAMO POR DEMANDA
+2088,2023-09-26,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+2089,2023-09-27,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+2090,2023-09-27,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+2091,2023-09-27,3,18,7.0,SE CAMBIO DE REFERENCIA
+2092,2023-09-28,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+2093,2023-09-28,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+2094,2023-09-29,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+2095,2023-09-29,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+2096,2023-09-29,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2097,2023-09-29,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+2098,2023-09-30,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+2099,2023-09-30,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+2100,2023-09-30,3,18,16.0,NO SE PROGRAMO POR DEMANDA
+2101,2023-09-30,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+2102,2023-10-01,1,18,24.0,NO SE PROGRAMO POR DEMANDA
+2103,2023-10-01,2,18,24.0,NO SE PROGRAMO POR DEMANDA
+2104,2023-10-01,3,18,16.0,NO SE PROGRAMO POR DEMANDA
+2105,2023-10-01,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+2106,2023-10-02,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+2107,2023-10-02,2,18,8.0,NO SE PROGRAMO POR DEMANDA
+2108,2023-10-03,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+2109,2023-10-04,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+2110,2023-10-04,2,18,8.0,NO SE PROGRAMO POR DEMANDA
+2111,2023-10-04,3,18,8.0,NO SE PROGRAMO POR DEMANDA
+2112,2023-10-05,2,18,8.0,NO SE PROGRAMO POR DEMANDA
+2113,2023-10-05,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2114,2023-10-05,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+2115,2023-10-06,2,18,8.0,NO SE PROGRAMO POR DEMANDA
+2116,2023-10-06,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2117,2023-10-06,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+2118,2023-10-07,2,18,8.0,NO SE PROGRAMO POR DEMANDA
+2119,2023-10-07,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2120,2023-10-07,4,18,24.0,NO SE PROGRAMO POR DEMANDA
+2121,2023-10-08,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2122,2023-10-08,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2123,2023-10-08,4,18,16.0,NO SE PROGRAMO POR DEMANDA
+2124,2023-10-09,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2125,2023-10-09,4,18,8.0,NO SE PROGRAMO POR DEMANDA
+2126,2023-10-09,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+2127,2023-10-10,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+2128,2023-10-10,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2129,2023-10-11,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2130,2023-10-11,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+2131,2023-10-12,2,18,8.0,NO SE PROGRAMO POR DEMANDA
+2132,2023-10-12,1,18,16.0,FALTA DE DISPLAY
+2133,2023-10-12,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2134,2023-10-13,1,18,16.0,FALTA DE DISPLAY
+2135,2023-10-13,1,18,8.0,FALTA DE PINTURAS
+2136,2023-10-13,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+2137,2023-10-13,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2138,2023-10-14,2,18,8.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2139,2023-10-14,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2140,2023-10-14,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2141,2023-10-14,4,18,8.0,NO SE PROGRAMO POR DEMANDA
+2142,2023-10-14,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2143,2023-10-15,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2144,2023-10-15,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2145,2023-10-15,4,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2146,2023-10-15,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2147,2023-10-15,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2148,2023-10-16,2,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2149,2023-10-16,4,18,16.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2150,2023-10-16,3,18,24.0,NO SE PROGRAMO POR DEMANDA
+2151,2023-10-16,3,18,16.0,NO SE PROGRAMO POR DEMANDA
+2152,2023-10-16,1,18,24.0,NO SE PROGRAMO EL FIN DE SEMANA POR DEMANDA
+2153,2023-10-17,2,18,16.0,NO SE PROGRAMO POR DEMANDA
+2154,2023-10-19,1,18,16.0,SE CAMBIO DE REFERENCIA
+2155,2023-10-22,2,18,24.0,NO SE PROGRAMO POR DEMANDA
