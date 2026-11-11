@@ -2,7 +2,7 @@
 
 Proyecto final de **Bases de Datos I** (I.U. Pascual Bravo). Reemplaza el libro de Excel `SEGUIMIENTO TEMPERAS Y VINILOS` por una base de datos relacional normalizada (PostgreSQL) que registra la produccion y los paros de las maquinas Vinilos_1 a Vinilos_4 y reproduce los indicadores del procedimiento **P-MTO-22**.
 
-**Integrantes:** _[Nombre Apellido1 Apellido2]_ y _[Nombre Apellido1 Apellido2]_
+**Integrantes:** Emmanuel Echeverri Quintero y Camilo Velasquez Botero
 
 ## Que contiene
 - Modelo conceptual (MER), modelo relacional y proceso de normalizacion hasta 3FN/BCNF.
